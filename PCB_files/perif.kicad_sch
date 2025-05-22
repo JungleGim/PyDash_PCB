@@ -2199,25 +2199,25 @@
 		(uuid "03a5796c-7889-491c-9092-95b90a9ce053")
 	)
 	(junction
-		(at 143.764 35.306)
+		(at 200.406 34.798)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "18b7ea33-ff81-4f51-8d3a-541183077518")
 	)
 	(junction
-		(at 192.024 56.134)
+		(at 137.922 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1b867bdc-59dd-4004-841e-935bc141ee02")
 	)
 	(junction
-		(at 191.516 35.306)
+		(at 137.414 35.052)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4142cc8c-e911-4bf6-902b-4e129f71d54f")
 	)
 	(junction
-		(at 135.636 35.306)
+		(at 192.278 34.798)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "475d0a8d-cade-4843-a1c2-43a45e58bacb")
@@ -2235,13 +2235,13 @@
 		(uuid "506387e8-b5a6-480a-8c43-a4130d774138")
 	)
 	(junction
-		(at 200.406 80.518)
+		(at 146.304 80.264)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "518dc22e-ec1d-49c2-8e39-66055190032c")
 	)
 	(junction
-		(at 192.278 80.518)
+		(at 138.176 80.264)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "605d3a6c-1991-4243-a1ae-478af7374580")
@@ -2253,7 +2253,7 @@
 		(uuid "633939f3-b254-435a-a13c-da2f040c7baa")
 	)
 	(junction
-		(at 200.152 56.134)
+		(at 146.05 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "64489bd3-609c-42c1-80e0-33d2155dc6de")
@@ -2265,13 +2265,13 @@
 		(uuid "6cfd6bdc-d2b6-45a9-8e09-0e03471bbfd0")
 	)
 	(junction
-		(at 144.526 80.518)
+		(at 201.168 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "84de989c-ead5-4f9a-b840-1ab74d3fee8b")
 	)
 	(junction
-		(at 144.272 56.134)
+		(at 200.914 55.626)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8645817f-1ef7-42d9-bc8c-ec0ce1915fc9")
@@ -2283,13 +2283,13 @@
 		(uuid "8f02be27-13d1-4f86-b983-44100d22f82a")
 	)
 	(junction
-		(at 136.144 56.134)
+		(at 192.786 55.626)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8f10b758-c990-429a-88c8-07cf68cf8d09")
 	)
 	(junction
-		(at 199.644 35.306)
+		(at 145.542 35.052)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "94abad2e-fc06-4a02-b75a-d4a26b5c4318")
@@ -2313,7 +2313,7 @@
 		(uuid "cd1be2c0-bce3-42b2-acb1-51c8bd735ab6")
 	)
 	(junction
-		(at 136.398 80.518)
+		(at 193.04 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f0d73829-c926-4931-90ae-0d8b743550ac")
@@ -2354,7 +2354,7 @@
 	)
 	(wire
 		(pts
-			(xy 192.024 56.134) (xy 193.548 56.134)
+			(xy 137.922 55.88) (xy 139.446 55.88)
 		)
 		(stroke
 			(width 0)
@@ -2414,7 +2414,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.366 35.306) (xy 135.636 35.306)
+			(xy 191.008 34.798) (xy 192.278 34.798)
 		)
 		(stroke
 			(width 0)
@@ -2424,7 +2424,7 @@
 	)
 	(wire
 		(pts
-			(xy 191.008 80.518) (xy 192.278 80.518)
+			(xy 136.906 80.264) (xy 138.176 80.264)
 		)
 		(stroke
 			(width 0)
@@ -2454,7 +2454,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.246 35.306) (xy 191.516 35.306)
+			(xy 136.144 35.052) (xy 137.414 35.052)
 		)
 		(stroke
 			(width 0)
@@ -2484,7 +2484,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.874 56.134) (xy 136.144 56.134)
+			(xy 191.516 55.626) (xy 192.786 55.626)
 		)
 		(stroke
 			(width 0)
@@ -2494,7 +2494,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.628 56.134) (xy 200.152 56.134)
+			(xy 144.526 55.88) (xy 146.05 55.88)
 		)
 		(stroke
 			(width 0)
@@ -2504,7 +2504,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.002 80.518) (xy 144.526 80.518)
+			(xy 199.644 80.01) (xy 201.168 80.01)
 		)
 		(stroke
 			(width 0)
@@ -2514,7 +2514,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 35.306) (xy 199.644 35.306)
+			(xy 144.018 35.052) (xy 145.542 35.052)
 		)
 		(stroke
 			(width 0)
@@ -2524,7 +2524,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.644 35.306) (xy 207.01 35.306)
+			(xy 145.542 35.052) (xy 152.908 35.052)
 		)
 		(stroke
 			(width 0)
@@ -2564,7 +2564,7 @@
 	)
 	(wire
 		(pts
-			(xy 191.516 35.306) (xy 193.04 35.306)
+			(xy 137.414 35.052) (xy 138.938 35.052)
 		)
 		(stroke
 			(width 0)
@@ -2574,7 +2574,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.128 80.518) (xy 136.398 80.518)
+			(xy 191.77 80.01) (xy 193.04 80.01)
 		)
 		(stroke
 			(width 0)
@@ -2604,7 +2604,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.748 56.134) (xy 144.272 56.134)
+			(xy 199.39 55.626) (xy 200.914 55.626)
 		)
 		(stroke
 			(width 0)
@@ -2614,7 +2614,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.272 56.134) (xy 151.638 56.134)
+			(xy 200.914 55.626) (xy 208.28 55.626)
 		)
 		(stroke
 			(width 0)
@@ -2654,7 +2654,7 @@
 	)
 	(wire
 		(pts
-			(xy 200.152 56.134) (xy 207.518 56.134)
+			(xy 146.05 55.88) (xy 153.416 55.88)
 		)
 		(stroke
 			(width 0)
@@ -2714,7 +2714,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.882 80.518) (xy 200.406 80.518)
+			(xy 144.78 80.264) (xy 146.304 80.264)
 		)
 		(stroke
 			(width 0)
@@ -2734,7 +2734,7 @@
 	)
 	(wire
 		(pts
-			(xy 192.278 80.518) (xy 193.802 80.518)
+			(xy 138.176 80.264) (xy 139.7 80.264)
 		)
 		(stroke
 			(width 0)
@@ -2744,7 +2744,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 35.306) (xy 143.764 35.306)
+			(xy 198.882 34.798) (xy 200.406 34.798)
 		)
 		(stroke
 			(width 0)
@@ -2784,7 +2784,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.636 35.306) (xy 137.16 35.306)
+			(xy 192.278 34.798) (xy 193.802 34.798)
 		)
 		(stroke
 			(width 0)
@@ -2804,7 +2804,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.754 56.134) (xy 192.024 56.134)
+			(xy 136.652 55.88) (xy 137.922 55.88)
 		)
 		(stroke
 			(width 0)
@@ -2814,7 +2814,7 @@
 	)
 	(wire
 		(pts
-			(xy 136.398 80.518) (xy 137.922 80.518)
+			(xy 193.04 80.01) (xy 194.564 80.01)
 		)
 		(stroke
 			(width 0)
@@ -2824,7 +2824,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.526 80.518) (xy 151.892 80.518)
+			(xy 201.168 80.01) (xy 208.534 80.01)
 		)
 		(stroke
 			(width 0)
@@ -2854,7 +2854,7 @@
 	)
 	(wire
 		(pts
-			(xy 200.406 80.518) (xy 207.772 80.518)
+			(xy 146.304 80.264) (xy 153.67 80.264)
 		)
 		(stroke
 			(width 0)
@@ -2944,7 +2944,7 @@
 	)
 	(wire
 		(pts
-			(xy 136.144 56.134) (xy 137.668 56.134)
+			(xy 192.786 55.626) (xy 194.31 55.626)
 		)
 		(stroke
 			(width 0)
@@ -2984,7 +2984,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.764 35.306) (xy 151.13 35.306)
+			(xy 200.406 34.798) (xy 207.772 34.798)
 		)
 		(stroke
 			(width 0)
@@ -3057,9 +3057,9 @@
 			)
 		)
 	)
-	(global_label "btn_R1"
+	(global_label "btn_L1"
 		(shape input)
-		(at 190.246 35.306 180)
+		(at 136.144 35.052 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3069,7 +3069,7 @@
 		)
 		(uuid "07c0edec-e9b6-4f7a-ab1a-072dc72c662a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 181.3619 35.2266 0)
+			(at 126.9299 35.052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3144,9 +3144,9 @@
 			)
 		)
 	)
-	(global_label "btn_L1"
+	(global_label "btn_R1"
 		(shape input)
-		(at 134.366 35.306 180)
+		(at 191.008 34.798 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3156,7 +3156,7 @@
 		)
 		(uuid "27ec01bb-495c-478c-b074-7f6acf9d4be3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 125.7239 35.2266 0)
+			(at 181.552 34.798 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3250,9 +3250,9 @@
 			)
 		)
 	)
-	(global_label "btn_L2"
+	(global_label "btn_R2"
 		(shape input)
-		(at 134.874 56.134 180)
+		(at 191.516 55.626 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3262,7 +3262,7 @@
 		)
 		(uuid "4e9aae7a-9245-41c6-bb36-e0dbba93354e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 126.2319 56.0546 0)
+			(at 182.06 55.626 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3293,9 +3293,9 @@
 			)
 		)
 	)
-	(global_label "btn_L3"
+	(global_label "btn_R3"
 		(shape input)
-		(at 135.128 80.518 180)
+		(at 191.77 80.01 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3305,7 +3305,7 @@
 		)
 		(uuid "67a3d4b4-3c28-47ea-a34d-0d920f59eb8b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 126.4859 80.4386 0)
+			(at 182.314 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3336,9 +3336,9 @@
 			)
 		)
 	)
-	(global_label "btn_R3"
+	(global_label "btn_L3"
 		(shape input)
-		(at 191.008 80.518 180)
+		(at 136.906 80.264 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3348,7 +3348,7 @@
 		)
 		(uuid "a209cf03-0b35-4d8e-a889-3b6da43243c3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 182.1239 80.4386 0)
+			(at 127.6919 80.264 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3401,9 +3401,9 @@
 			)
 		)
 	)
-	(global_label "btn_R2"
+	(global_label "btn_L2"
 		(shape input)
-		(at 190.754 56.134 180)
+		(at 136.652 55.88 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3413,7 +3413,7 @@
 		)
 		(uuid "ca676f4e-a57c-4d1f-a5f1-dd30a6b9f4e7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 181.8699 56.0546 0)
+			(at 127.4379 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3490,7 +3490,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 136.398 85.598 0)
+		(at 193.04 85.09 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3498,7 +3498,7 @@
 		(dnp no)
 		(uuid "01ca5b2b-fe55-401e-9b97-c15a84abeeb1")
 		(property "Reference" "#PWR046"
-			(at 136.398 91.948 0)
+			(at 193.04 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3507,7 +3507,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 133.096 88.138 0)
+			(at 189.738 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3515,7 +3515,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 136.398 85.598 0)
+			(at 193.04 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3524,7 +3524,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 136.398 85.598 0)
+			(at 193.04 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3533,7 +3533,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 136.398 85.598 0)
+			(at 193.04 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3714,7 +3714,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 217.17 35.306 90)
+		(at 163.068 35.052 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3723,7 +3723,7 @@
 		(fields_autoplaced yes)
 		(uuid "09ed7d7f-cb53-4004-b7e0-0eb2ce39f840")
 		(property "Reference" "#PWR059"
-			(at 223.52 35.306 0)
+			(at 169.418 35.052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3732,7 +3732,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 221.234 35.3059 90)
+			(at 167.132 35.0519 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3741,7 +3741,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 217.17 35.306 0)
+			(at 163.068 35.052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3750,7 +3750,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 217.17 35.306 0)
+			(at 163.068 35.052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3759,7 +3759,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 217.17 35.306 0)
+			(at 163.068 35.052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3781,7 +3781,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 144.272 51.054 0)
+		(at 200.914 50.546 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3790,7 +3790,7 @@
 		(fields_autoplaced yes)
 		(uuid "1308ff3d-c183-4766-b3f4-23454133dfb1")
 		(property "Reference" "#PWR048"
-			(at 144.272 54.864 0)
+			(at 200.914 54.356 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3799,7 +3799,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 144.272 45.974 0)
+			(at 200.914 45.466 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3807,7 +3807,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 144.272 51.054 0)
+			(at 200.914 50.546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3816,7 +3816,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 144.272 51.054 0)
+			(at 200.914 50.546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3825,7 +3825,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 144.272 51.054 0)
+			(at 200.914 50.546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3847,7 +3847,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 162.052 80.518 90)
+		(at 218.694 80.01 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3856,7 +3856,7 @@
 		(fields_autoplaced yes)
 		(uuid "16374484-b2e9-4f65-aec2-5f08f5e80031")
 		(property "Reference" "#PWR052"
-			(at 168.402 80.518 0)
+			(at 225.044 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3865,7 +3865,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 166.116 80.5179 90)
+			(at 222.758 80.0099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3874,7 +3874,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 162.052 80.518 0)
+			(at 218.694 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3883,7 +3883,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 162.052 80.518 0)
+			(at 218.694 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3892,7 +3892,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 162.052 80.518 0)
+			(at 218.694 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3914,7 +3914,7 @@
 	)
 	(symbol
 		(lib_id "user:B3F_5050")
-		(at 156.972 80.518 0)
+		(at 213.614 80.01 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3922,8 +3922,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "181d0faa-d9cd-4db0-8aa5-4fd79c5d50f7")
-		(property "Reference" "SW3"
-			(at 156.972 72.39 0)
+		(property "Reference" "SW6"
+			(at 213.614 71.882 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3931,7 +3931,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 156.972 74.93 0)
+			(at 213.614 74.422 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3939,7 +3939,7 @@
 			)
 		)
 		(property "Footprint" "user:SW_B3F-4050_OMR"
-			(at 156.972 75.438 0)
+			(at 213.614 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3948,7 +3948,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 156.972 75.438 0)
+			(at 213.614 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3957,7 +3957,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 156.972 80.518 0)
+			(at 213.614 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3966,7 +3966,7 @@
 			)
 		)
 		(property "Mouser_PN" " 653-B3F-5050"
-			(at 156.972 80.518 0)
+			(at 213.614 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3975,7 +3975,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 156.972 80.518 0)
+			(at 213.614 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3984,7 +3984,7 @@
 			)
 		)
 		(property "OC_FARNELL" ""
-			(at 156.972 80.518 0)
+			(at 213.614 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3993,7 +3993,7 @@
 			)
 		)
 		(property "OC_NEWARK" ""
-			(at 156.972 80.518 0)
+			(at 213.614 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4002,7 +4002,7 @@
 			)
 		)
 		(property "PACKAGE" ""
-			(at 156.972 80.518 0)
+			(at 213.614 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4011,7 +4011,7 @@
 			)
 		)
 		(property "SUPPLIER" ""
-			(at 156.972 80.518 0)
+			(at 213.614 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4020,7 +4020,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 156.972 80.518 0)
+			(at 213.614 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4029,7 +4029,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 156.972 80.518 0)
+			(at 213.614 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4046,7 +4046,7 @@
 		(instances
 			(project "py_dash_pcb_7"
 				(path "/84878699-1e21-48de-ad1b-9d4034e33e81/fd2b2dcc-751c-4523-8783-f08253743a66"
-					(reference "SW3")
+					(reference "SW6")
 					(unit 1)
 				)
 			)
@@ -4054,7 +4054,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 199.644 30.226 0)
+		(at 145.542 29.972 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4063,7 +4063,7 @@
 		(fields_autoplaced yes)
 		(uuid "1abb33ba-10f4-460b-a4af-2ef7bb664957")
 		(property "Reference" "#PWR056"
-			(at 199.644 34.036 0)
+			(at 145.542 33.782 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4072,7 +4072,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 199.644 25.146 0)
+			(at 145.542 24.892 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4080,7 +4080,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 199.644 30.226 0)
+			(at 145.542 29.972 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4089,7 +4089,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 199.644 30.226 0)
+			(at 145.542 29.972 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4098,7 +4098,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 199.644 30.226 0)
+			(at 145.542 29.972 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4120,7 +4120,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 200.406 77.978 0)
+		(at 146.304 77.724 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4129,7 +4129,7 @@
 		(fields_autoplaced yes)
 		(uuid "1ccb09e7-263a-4592-b931-3aba14d243ec")
 		(property "Reference" "R26"
-			(at 202.946 76.7079 0)
+			(at 148.844 76.4539 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4138,7 +4138,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 202.946 79.2479 0)
+			(at 148.844 78.9939 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4147,7 +4147,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 200.406 77.978 0)
+			(at 146.304 77.724 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4156,7 +4156,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 200.406 77.978 0)
+			(at 146.304 77.724 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4165,7 +4165,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 200.406 77.978 0)
+			(at 146.304 77.724 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4174,7 +4174,7 @@
 			)
 		)
 		(property "Mouser_PN" "71-CRCW0805-10K-E3"
-			(at 200.406 77.978 0)
+			(at 146.304 77.724 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4183,7 +4183,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 200.406 77.978 0)
+			(at 146.304 77.724 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4192,7 +4192,7 @@
 			)
 		)
 		(property "OC_FARNELL" ""
-			(at 200.406 77.978 0)
+			(at 146.304 77.724 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4201,7 +4201,7 @@
 			)
 		)
 		(property "OC_NEWARK" ""
-			(at 200.406 77.978 0)
+			(at 146.304 77.724 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4210,7 +4210,7 @@
 			)
 		)
 		(property "PACKAGE" ""
-			(at 200.406 77.978 0)
+			(at 146.304 77.724 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4219,7 +4219,7 @@
 			)
 		)
 		(property "SUPPLIER" ""
-			(at 200.406 77.978 0)
+			(at 146.304 77.724 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4228,7 +4228,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 200.406 77.978 0)
+			(at 146.304 77.724 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4237,7 +4237,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 200.406 77.978 0)
+			(at 146.304 77.724 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4262,7 +4262,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 136.144 58.674 0)
+		(at 192.786 58.166 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4270,7 +4270,7 @@
 		(dnp no)
 		(uuid "2829516b-4742-4455-8cda-51afbf36f014")
 		(property "Reference" "C27"
-			(at 138.43 58.928 0)
+			(at 195.072 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4279,7 +4279,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 138.43 60.96 0)
+			(at 195.072 60.452 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4288,7 +4288,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 136.144 58.674 0)
+			(at 192.786 58.166 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4297,7 +4297,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 136.144 58.674 0)
+			(at 192.786 58.166 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4306,7 +4306,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 136.144 58.674 0)
+			(at 192.786 58.166 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4315,7 +4315,7 @@
 			)
 		)
 		(property "Mouser_PN" "80-C0805C105M3R"
-			(at 136.144 58.674 0)
+			(at 192.786 58.166 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4324,7 +4324,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 136.144 58.674 0)
+			(at 192.786 58.166 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4333,7 +4333,7 @@
 			)
 		)
 		(property "OC_FARNELL" ""
-			(at 136.144 58.674 0)
+			(at 192.786 58.166 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4342,7 +4342,7 @@
 			)
 		)
 		(property "OC_NEWARK" ""
-			(at 136.144 58.674 0)
+			(at 192.786 58.166 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4351,7 +4351,7 @@
 			)
 		)
 		(property "PACKAGE" ""
-			(at 136.144 58.674 0)
+			(at 192.786 58.166 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4360,7 +4360,7 @@
 			)
 		)
 		(property "SUPPLIER" ""
-			(at 136.144 58.674 0)
+			(at 192.786 58.166 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4369,7 +4369,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 136.144 58.674 0)
+			(at 192.786 58.166 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4378,7 +4378,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 136.144 58.674 0)
+			(at 192.786 58.166 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4403,7 +4403,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 196.342 80.518 90)
+		(at 142.24 80.264 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4412,7 +4412,7 @@
 		(fields_autoplaced yes)
 		(uuid "2953646f-5865-426c-b59d-2226dad0eab1")
 		(property "Reference" "R23"
-			(at 196.342 74.168 90)
+			(at 142.24 73.914 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4420,7 +4420,7 @@
 			)
 		)
 		(property "Value" "27k"
-			(at 196.342 76.708 90)
+			(at 142.24 76.454 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4428,7 +4428,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 196.342 80.518 0)
+			(at 142.24 80.264 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4437,7 +4437,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 196.342 80.518 0)
+			(at 142.24 80.264 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4446,7 +4446,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 196.342 80.518 0)
+			(at 142.24 80.264 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4455,7 +4455,7 @@
 			)
 		)
 		(property "Mouser_PN" "71-CRCW0805-27K-E3"
-			(at 196.342 80.518 0)
+			(at 142.24 80.264 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4464,7 +4464,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 196.342 80.518 0)
+			(at 142.24 80.264 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4473,7 +4473,7 @@
 			)
 		)
 		(property "OC_FARNELL" ""
-			(at 196.342 80.518 0)
+			(at 142.24 80.264 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4482,7 +4482,7 @@
 			)
 		)
 		(property "OC_NEWARK" ""
-			(at 196.342 80.518 0)
+			(at 142.24 80.264 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4491,7 +4491,7 @@
 			)
 		)
 		(property "PACKAGE" ""
-			(at 196.342 80.518 0)
+			(at 142.24 80.264 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4500,7 +4500,7 @@
 			)
 		)
 		(property "SUPPLIER" ""
-			(at 196.342 80.518 0)
+			(at 142.24 80.264 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4509,7 +4509,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 196.342 80.518 0)
+			(at 142.24 80.264 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4518,7 +4518,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 196.342 80.518 0)
+			(at 142.24 80.264 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4543,7 +4543,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 217.932 80.518 90)
+		(at 163.83 80.264 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4552,7 +4552,7 @@
 		(fields_autoplaced yes)
 		(uuid "2e8ff15b-50a2-4004-ad47-f2eb655a0277")
 		(property "Reference" "#PWR061"
-			(at 224.282 80.518 0)
+			(at 170.18 80.264 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4561,7 +4561,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 221.996 80.5179 90)
+			(at 167.894 80.2639 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4570,7 +4570,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 217.932 80.518 0)
+			(at 163.83 80.264 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4579,7 +4579,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 217.932 80.518 0)
+			(at 163.83 80.264 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4588,7 +4588,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 217.932 80.518 0)
+			(at 163.83 80.264 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4610,7 +4610,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 135.636 37.846 0)
+		(at 192.278 37.338 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4618,7 +4618,7 @@
 		(dnp no)
 		(uuid "308ac2ba-a1b5-45c3-9eb0-b037ca7f8c8c")
 		(property "Reference" "C26"
-			(at 137.922 38.1 0)
+			(at 194.564 37.592 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4627,7 +4627,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 137.922 40.132 0)
+			(at 194.564 39.624 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4636,7 +4636,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 135.636 37.846 0)
+			(at 192.278 37.338 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4645,7 +4645,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 135.636 37.846 0)
+			(at 192.278 37.338 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4654,7 +4654,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 135.636 37.846 0)
+			(at 192.278 37.338 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4663,7 +4663,7 @@
 			)
 		)
 		(property "Mouser_PN" "80-C0805C105M3R"
-			(at 135.636 37.846 0)
+			(at 192.278 37.338 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4672,7 +4672,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 135.636 37.846 0)
+			(at 192.278 37.338 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4681,7 +4681,7 @@
 			)
 		)
 		(property "OC_FARNELL" ""
-			(at 135.636 37.846 0)
+			(at 192.278 37.338 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4690,7 +4690,7 @@
 			)
 		)
 		(property "OC_NEWARK" ""
-			(at 135.636 37.846 0)
+			(at 192.278 37.338 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4699,7 +4699,7 @@
 			)
 		)
 		(property "PACKAGE" ""
-			(at 135.636 37.846 0)
+			(at 192.278 37.338 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4708,7 +4708,7 @@
 			)
 		)
 		(property "SUPPLIER" ""
-			(at 135.636 37.846 0)
+			(at 192.278 37.338 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4717,7 +4717,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 135.636 37.846 0)
+			(at 192.278 37.338 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4726,7 +4726,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 135.636 37.846 0)
+			(at 192.278 37.338 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4898,7 +4898,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 144.272 53.594 0)
+		(at 200.914 53.086 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4907,7 +4907,7 @@
 		(fields_autoplaced yes)
 		(uuid "363fbee5-deb6-459a-8076-6bef49259a95")
 		(property "Reference" "R19"
-			(at 146.812 52.3239 0)
+			(at 203.454 51.8159 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4916,7 +4916,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 146.812 54.8639 0)
+			(at 203.454 54.3559 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4925,7 +4925,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 144.272 53.594 0)
+			(at 200.914 53.086 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4934,7 +4934,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 144.272 53.594 0)
+			(at 200.914 53.086 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4943,7 +4943,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 144.272 53.594 0)
+			(at 200.914 53.086 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4952,7 +4952,7 @@
 			)
 		)
 		(property "Mouser_PN" "71-CRCW0805-10K-E3"
-			(at 144.272 53.594 0)
+			(at 200.914 53.086 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4961,7 +4961,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 144.272 53.594 0)
+			(at 200.914 53.086 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4970,7 +4970,7 @@
 			)
 		)
 		(property "OC_FARNELL" ""
-			(at 144.272 53.594 0)
+			(at 200.914 53.086 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4979,7 +4979,7 @@
 			)
 		)
 		(property "OC_NEWARK" ""
-			(at 144.272 53.594 0)
+			(at 200.914 53.086 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4988,7 +4988,7 @@
 			)
 		)
 		(property "PACKAGE" ""
-			(at 144.272 53.594 0)
+			(at 200.914 53.086 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4997,7 +4997,7 @@
 			)
 		)
 		(property "SUPPLIER" ""
-			(at 144.272 53.594 0)
+			(at 200.914 53.086 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5006,7 +5006,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 144.272 53.594 0)
+			(at 200.914 53.086 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5015,7 +5015,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 144.272 53.594 0)
+			(at 200.914 53.086 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5172,7 +5172,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 139.7 35.306 90)
+		(at 196.342 34.798 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5181,7 +5181,7 @@
 		(fields_autoplaced yes)
 		(uuid "3b8f4812-9d70-4e5a-8c4e-19ee12c4c0e8")
 		(property "Reference" "R15"
-			(at 139.7 28.956 90)
+			(at 196.342 28.448 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5189,7 +5189,7 @@
 			)
 		)
 		(property "Value" "27k"
-			(at 139.7 31.496 90)
+			(at 196.342 30.988 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5197,7 +5197,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 139.7 35.306 0)
+			(at 196.342 34.798 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5206,7 +5206,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 139.7 35.306 0)
+			(at 196.342 34.798 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5215,7 +5215,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 139.7 35.306 0)
+			(at 196.342 34.798 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5224,7 +5224,7 @@
 			)
 		)
 		(property "Mouser_PN" "71-CRCW0805-27K-E3"
-			(at 139.7 35.306 0)
+			(at 196.342 34.798 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5233,7 +5233,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 139.7 35.306 0)
+			(at 196.342 34.798 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5242,7 +5242,7 @@
 			)
 		)
 		(property "OC_FARNELL" ""
-			(at 139.7 35.306 0)
+			(at 196.342 34.798 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5251,7 +5251,7 @@
 			)
 		)
 		(property "OC_NEWARK" ""
-			(at 139.7 35.306 0)
+			(at 196.342 34.798 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5260,7 +5260,7 @@
 			)
 		)
 		(property "PACKAGE" ""
-			(at 139.7 35.306 0)
+			(at 196.342 34.798 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5269,7 +5269,7 @@
 			)
 		)
 		(property "SUPPLIER" ""
-			(at 139.7 35.306 0)
+			(at 196.342 34.798 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5278,7 +5278,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 139.7 35.306 0)
+			(at 196.342 34.798 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5287,7 +5287,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 139.7 35.306 0)
+			(at 196.342 34.798 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5378,7 +5378,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 144.526 75.438 0)
+		(at 201.168 74.93 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5387,7 +5387,7 @@
 		(fields_autoplaced yes)
 		(uuid "3f50e67a-0d43-403d-a325-e1744660afea")
 		(property "Reference" "#PWR049"
-			(at 144.526 79.248 0)
+			(at 201.168 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5396,7 +5396,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 144.526 70.358 0)
+			(at 201.168 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5404,7 +5404,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 144.526 75.438 0)
+			(at 201.168 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5413,7 +5413,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 144.526 75.438 0)
+			(at 201.168 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5422,7 +5422,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 144.526 75.438 0)
+			(at 201.168 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5444,7 +5444,7 @@
 	)
 	(symbol
 		(lib_id "user:B3F_5050")
-		(at 156.718 56.134 0)
+		(at 213.36 55.626 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5452,8 +5452,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "43895cb4-42e1-4cdd-a6fa-2243c40129b8")
-		(property "Reference" "SW2"
-			(at 156.718 48.26 0)
+		(property "Reference" "SW5"
+			(at 213.36 47.752 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5461,7 +5461,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 156.718 50.8 0)
+			(at 213.36 50.292 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5469,7 +5469,7 @@
 			)
 		)
 		(property "Footprint" "user:SW_B3F-4050_OMR"
-			(at 156.718 51.054 0)
+			(at 213.36 50.546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5478,7 +5478,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 156.718 51.054 0)
+			(at 213.36 50.546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5487,7 +5487,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 156.718 56.134 0)
+			(at 213.36 55.626 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5496,7 +5496,7 @@
 			)
 		)
 		(property "Mouser_PN" " 653-B3F-5050"
-			(at 156.718 56.134 0)
+			(at 213.36 55.626 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5505,7 +5505,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 156.718 56.134 0)
+			(at 213.36 55.626 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5514,7 +5514,7 @@
 			)
 		)
 		(property "OC_FARNELL" ""
-			(at 156.718 56.134 0)
+			(at 213.36 55.626 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5523,7 +5523,7 @@
 			)
 		)
 		(property "OC_NEWARK" ""
-			(at 156.718 56.134 0)
+			(at 213.36 55.626 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5532,7 +5532,7 @@
 			)
 		)
 		(property "PACKAGE" ""
-			(at 156.718 56.134 0)
+			(at 213.36 55.626 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5541,7 +5541,7 @@
 			)
 		)
 		(property "SUPPLIER" ""
-			(at 156.718 56.134 0)
+			(at 213.36 55.626 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5550,7 +5550,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 156.718 56.134 0)
+			(at 213.36 55.626 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5559,7 +5559,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 156.718 56.134 0)
+			(at 213.36 55.626 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5576,7 +5576,7 @@
 		(instances
 			(project "py_dash_pcb_7"
 				(path "/84878699-1e21-48de-ad1b-9d4034e33e81/fd2b2dcc-751c-4523-8783-f08253743a66"
-					(reference "SW2")
+					(reference "SW5")
 					(unit 1)
 				)
 			)
@@ -5790,7 +5790,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 192.278 83.058 0)
+		(at 138.176 82.804 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5798,7 +5798,7 @@
 		(dnp no)
 		(uuid "48e10b8f-4626-406f-8e0c-aa6bd12e8ff4")
 		(property "Reference" "C31"
-			(at 194.564 83.312 0)
+			(at 140.462 83.058 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5807,7 +5807,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 194.564 85.344 0)
+			(at 140.462 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5816,7 +5816,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 192.278 83.058 0)
+			(at 138.176 82.804 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5825,7 +5825,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 192.278 83.058 0)
+			(at 138.176 82.804 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5834,7 +5834,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 192.278 83.058 0)
+			(at 138.176 82.804 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5843,7 +5843,7 @@
 			)
 		)
 		(property "Mouser_PN" "80-C0805C105M3R"
-			(at 192.278 83.058 0)
+			(at 138.176 82.804 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5852,7 +5852,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 192.278 83.058 0)
+			(at 138.176 82.804 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5861,7 +5861,7 @@
 			)
 		)
 		(property "OC_FARNELL" ""
-			(at 192.278 83.058 0)
+			(at 138.176 82.804 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5870,7 +5870,7 @@
 			)
 		)
 		(property "OC_NEWARK" ""
-			(at 192.278 83.058 0)
+			(at 138.176 82.804 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5879,7 +5879,7 @@
 			)
 		)
 		(property "PACKAGE" ""
-			(at 192.278 83.058 0)
+			(at 138.176 82.804 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5888,7 +5888,7 @@
 			)
 		)
 		(property "SUPPLIER" ""
-			(at 192.278 83.058 0)
+			(at 138.176 82.804 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5897,7 +5897,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 192.278 83.058 0)
+			(at 138.176 82.804 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5906,7 +5906,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 192.278 83.058 0)
+			(at 138.176 82.804 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6070,7 +6070,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 217.678 56.134 90)
+		(at 163.576 55.88 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6079,7 +6079,7 @@
 		(fields_autoplaced yes)
 		(uuid "4e095e9a-5a13-4b25-9af0-cee099868fb6")
 		(property "Reference" "#PWR060"
-			(at 224.028 56.134 0)
+			(at 169.926 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6088,7 +6088,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 221.742 56.1339 90)
+			(at 167.64 55.8799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6097,7 +6097,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 217.678 56.134 0)
+			(at 163.576 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6106,7 +6106,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 217.678 56.134 0)
+			(at 163.576 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6115,7 +6115,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 217.678 56.134 0)
+			(at 163.576 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6137,7 +6137,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 200.406 75.438 0)
+		(at 146.304 75.184 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6146,7 +6146,7 @@
 		(fields_autoplaced yes)
 		(uuid "52aa2cdf-2d9e-4b92-b633-5cccde8d9cb5")
 		(property "Reference" "#PWR058"
-			(at 200.406 79.248 0)
+			(at 146.304 78.994 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6155,7 +6155,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 200.406 70.358 0)
+			(at 146.304 70.104 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6163,7 +6163,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 200.406 75.438 0)
+			(at 146.304 75.184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6172,7 +6172,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 200.406 75.438 0)
+			(at 146.304 75.184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6181,7 +6181,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 200.406 75.438 0)
+			(at 146.304 75.184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6483,7 +6483,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 143.764 32.766 0)
+		(at 200.406 32.258 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6492,7 +6492,7 @@
 		(fields_autoplaced yes)
 		(uuid "64467727-e667-4254-af83-93f561c59346")
 		(property "Reference" "R18"
-			(at 146.304 31.4959 0)
+			(at 202.946 30.9879 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6501,7 +6501,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 146.304 34.0359 0)
+			(at 202.946 33.5279 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6510,7 +6510,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 143.764 32.766 0)
+			(at 200.406 32.258 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6519,7 +6519,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 143.764 32.766 0)
+			(at 200.406 32.258 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6528,7 +6528,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 143.764 32.766 0)
+			(at 200.406 32.258 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6537,7 +6537,7 @@
 			)
 		)
 		(property "Mouser_PN" "71-CRCW0805-10K-E3"
-			(at 143.764 32.766 0)
+			(at 200.406 32.258 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6546,7 +6546,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 143.764 32.766 0)
+			(at 200.406 32.258 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6555,7 +6555,7 @@
 			)
 		)
 		(property "OC_FARNELL" ""
-			(at 143.764 32.766 0)
+			(at 200.406 32.258 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6564,7 +6564,7 @@
 			)
 		)
 		(property "OC_NEWARK" ""
-			(at 143.764 32.766 0)
+			(at 200.406 32.258 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6573,7 +6573,7 @@
 			)
 		)
 		(property "PACKAGE" ""
-			(at 143.764 32.766 0)
+			(at 200.406 32.258 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6582,7 +6582,7 @@
 			)
 		)
 		(property "SUPPLIER" ""
-			(at 143.764 32.766 0)
+			(at 200.406 32.258 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6591,7 +6591,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 143.764 32.766 0)
+			(at 200.406 32.258 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6600,7 +6600,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 143.764 32.766 0)
+			(at 200.406 32.258 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6625,7 +6625,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 196.088 56.134 90)
+		(at 141.986 55.88 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6634,7 +6634,7 @@
 		(fields_autoplaced yes)
 		(uuid "6778f051-e9dd-4e36-8ab9-a3951560da06")
 		(property "Reference" "R22"
-			(at 196.088 49.784 90)
+			(at 141.986 49.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6642,7 +6642,7 @@
 			)
 		)
 		(property "Value" "27k"
-			(at 196.088 52.324 90)
+			(at 141.986 52.07 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6650,7 +6650,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 196.088 56.134 0)
+			(at 141.986 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6659,7 +6659,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 196.088 56.134 0)
+			(at 141.986 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6668,7 +6668,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 196.088 56.134 0)
+			(at 141.986 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6677,7 +6677,7 @@
 			)
 		)
 		(property "Mouser_PN" "71-CRCW0805-27K-E3"
-			(at 196.088 56.134 0)
+			(at 141.986 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6686,7 +6686,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 196.088 56.134 0)
+			(at 141.986 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6695,7 +6695,7 @@
 			)
 		)
 		(property "OC_FARNELL" ""
-			(at 196.088 56.134 0)
+			(at 141.986 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6704,7 +6704,7 @@
 			)
 		)
 		(property "OC_NEWARK" ""
-			(at 196.088 56.134 0)
+			(at 141.986 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6713,7 +6713,7 @@
 			)
 		)
 		(property "PACKAGE" ""
-			(at 196.088 56.134 0)
+			(at 141.986 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6722,7 +6722,7 @@
 			)
 		)
 		(property "SUPPLIER" ""
-			(at 196.088 56.134 0)
+			(at 141.986 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6731,7 +6731,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 196.088 56.134 0)
+			(at 141.986 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6740,7 +6740,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 196.088 56.134 0)
+			(at 141.986 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6765,7 +6765,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 192.024 61.214 0)
+		(at 137.922 60.96 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6773,7 +6773,7 @@
 		(dnp no)
 		(uuid "721aeddf-624d-4916-bf2d-fe526587990c")
 		(property "Reference" "#PWR054"
-			(at 192.024 67.564 0)
+			(at 137.922 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6782,7 +6782,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 188.722 63.754 0)
+			(at 134.62 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6790,7 +6790,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 192.024 61.214 0)
+			(at 137.922 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6799,7 +6799,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 192.024 61.214 0)
+			(at 137.922 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6808,7 +6808,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 192.024 61.214 0)
+			(at 137.922 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6830,7 +6830,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 191.516 37.846 0)
+		(at 137.414 37.592 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6838,7 +6838,7 @@
 		(dnp no)
 		(uuid "7591c3b4-53c3-4e57-bda8-bc455f922b3b")
 		(property "Reference" "C29"
-			(at 193.802 38.1 0)
+			(at 139.7 37.846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6847,7 +6847,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 193.802 40.132 0)
+			(at 139.7 39.878 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6856,7 +6856,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 191.516 37.846 0)
+			(at 137.414 37.592 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6865,7 +6865,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 191.516 37.846 0)
+			(at 137.414 37.592 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6874,7 +6874,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 191.516 37.846 0)
+			(at 137.414 37.592 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6883,7 +6883,7 @@
 			)
 		)
 		(property "Mouser_PN" "80-C0805C105M3R"
-			(at 191.516 37.846 0)
+			(at 137.414 37.592 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6892,7 +6892,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 191.516 37.846 0)
+			(at 137.414 37.592 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6901,7 +6901,7 @@
 			)
 		)
 		(property "OC_FARNELL" ""
-			(at 191.516 37.846 0)
+			(at 137.414 37.592 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6910,7 +6910,7 @@
 			)
 		)
 		(property "OC_NEWARK" ""
-			(at 191.516 37.846 0)
+			(at 137.414 37.592 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6919,7 +6919,7 @@
 			)
 		)
 		(property "PACKAGE" ""
-			(at 191.516 37.846 0)
+			(at 137.414 37.592 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6928,7 +6928,7 @@
 			)
 		)
 		(property "SUPPLIER" ""
-			(at 191.516 37.846 0)
+			(at 137.414 37.592 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6937,7 +6937,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 191.516 37.846 0)
+			(at 137.414 37.592 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6946,7 +6946,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 191.516 37.846 0)
+			(at 137.414 37.592 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7105,7 +7105,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 143.764 30.226 0)
+		(at 200.406 29.718 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7114,7 +7114,7 @@
 		(fields_autoplaced yes)
 		(uuid "80c5ec0a-05d2-42aa-b8ef-f7207654f51f")
 		(property "Reference" "#PWR047"
-			(at 143.764 34.036 0)
+			(at 200.406 33.528 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7123,7 +7123,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 143.764 25.146 0)
+			(at 200.406 24.638 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7131,7 +7131,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 143.764 30.226 0)
+			(at 200.406 29.718 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7140,7 +7140,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 143.764 30.226 0)
+			(at 200.406 29.718 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7149,7 +7149,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 143.764 30.226 0)
+			(at 200.406 29.718 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7171,7 +7171,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 192.024 58.674 0)
+		(at 137.922 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7179,7 +7179,7 @@
 		(dnp no)
 		(uuid "83620282-1fb6-44e6-9bd5-de2a87b4e085")
 		(property "Reference" "C30"
-			(at 194.31 58.928 0)
+			(at 140.208 58.674 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7188,7 +7188,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 194.31 60.96 0)
+			(at 140.208 60.706 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7197,7 +7197,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 192.024 58.674 0)
+			(at 137.922 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7206,7 +7206,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 192.024 58.674 0)
+			(at 137.922 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7215,7 +7215,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 192.024 58.674 0)
+			(at 137.922 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7224,7 +7224,7 @@
 			)
 		)
 		(property "Mouser_PN" "80-C0805C105M3R"
-			(at 192.024 58.674 0)
+			(at 137.922 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7233,7 +7233,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 192.024 58.674 0)
+			(at 137.922 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7242,7 +7242,7 @@
 			)
 		)
 		(property "OC_FARNELL" ""
-			(at 192.024 58.674 0)
+			(at 137.922 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7251,7 +7251,7 @@
 			)
 		)
 		(property "OC_NEWARK" ""
-			(at 192.024 58.674 0)
+			(at 137.922 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7260,7 +7260,7 @@
 			)
 		)
 		(property "PACKAGE" ""
-			(at 192.024 58.674 0)
+			(at 137.922 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7269,7 +7269,7 @@
 			)
 		)
 		(property "SUPPLIER" ""
-			(at 192.024 58.674 0)
+			(at 137.922 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7278,7 +7278,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 192.024 58.674 0)
+			(at 137.922 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7287,7 +7287,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 192.024 58.674 0)
+			(at 137.922 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7379,7 +7379,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 200.152 51.054 0)
+		(at 146.05 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7388,7 +7388,7 @@
 		(fields_autoplaced yes)
 		(uuid "84e4be9d-d381-4b46-895c-8c38307934ad")
 		(property "Reference" "#PWR057"
-			(at 200.152 54.864 0)
+			(at 146.05 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7397,7 +7397,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 200.152 45.974 0)
+			(at 146.05 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7405,7 +7405,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 200.152 51.054 0)
+			(at 146.05 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7414,7 +7414,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 200.152 51.054 0)
+			(at 146.05 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7423,7 +7423,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 200.152 51.054 0)
+			(at 146.05 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7445,7 +7445,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 136.144 61.214 0)
+		(at 192.786 60.706 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7453,7 +7453,7 @@
 		(dnp no)
 		(uuid "861a6070-2452-48f7-8f70-ce758641aa26")
 		(property "Reference" "#PWR045"
-			(at 136.144 67.564 0)
+			(at 192.786 67.056 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7462,7 +7462,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 132.842 63.754 0)
+			(at 189.484 63.246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7470,7 +7470,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 136.144 61.214 0)
+			(at 192.786 60.706 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7479,7 +7479,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 136.144 61.214 0)
+			(at 192.786 60.706 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7488,7 +7488,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 136.144 61.214 0)
+			(at 192.786 60.706 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7576,7 +7576,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 136.398 83.058 0)
+		(at 193.04 82.55 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7584,7 +7584,7 @@
 		(dnp no)
 		(uuid "8f11f487-e22c-4318-908c-55879084689a")
 		(property "Reference" "C28"
-			(at 138.684 83.312 0)
+			(at 195.326 82.804 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7593,7 +7593,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 138.684 85.344 0)
+			(at 195.326 84.836 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7602,7 +7602,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 136.398 83.058 0)
+			(at 193.04 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7611,7 +7611,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 136.398 83.058 0)
+			(at 193.04 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7620,7 +7620,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 136.398 83.058 0)
+			(at 193.04 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7629,7 +7629,7 @@
 			)
 		)
 		(property "Mouser_PN" "80-C0805C105M3R"
-			(at 136.398 83.058 0)
+			(at 193.04 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7638,7 +7638,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 136.398 83.058 0)
+			(at 193.04 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7647,7 +7647,7 @@
 			)
 		)
 		(property "OC_FARNELL" ""
-			(at 136.398 83.058 0)
+			(at 193.04 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7656,7 +7656,7 @@
 			)
 		)
 		(property "OC_NEWARK" ""
-			(at 136.398 83.058 0)
+			(at 193.04 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7665,7 +7665,7 @@
 			)
 		)
 		(property "PACKAGE" ""
-			(at 136.398 83.058 0)
+			(at 193.04 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7674,7 +7674,7 @@
 			)
 		)
 		(property "SUPPLIER" ""
-			(at 136.398 83.058 0)
+			(at 193.04 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7683,7 +7683,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 136.398 83.058 0)
+			(at 193.04 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7692,7 +7692,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 136.398 83.058 0)
+			(at 193.04 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7717,7 +7717,7 @@
 	)
 	(symbol
 		(lib_id "user:B3F_5050")
-		(at 156.21 35.306 0)
+		(at 212.852 34.798 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7725,8 +7725,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "99c2d081-21a3-4d5b-bcca-f3abe7839660")
-		(property "Reference" "SW1"
-			(at 156.21 27.94 0)
+		(property "Reference" "SW4"
+			(at 212.852 27.432 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7734,7 +7734,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 156.21 30.48 0)
+			(at 212.852 29.972 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7742,7 +7742,7 @@
 			)
 		)
 		(property "Footprint" "user:SW_B3F-4050_OMR"
-			(at 156.21 30.226 0)
+			(at 212.852 29.718 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7751,7 +7751,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 156.21 30.226 0)
+			(at 212.852 29.718 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7760,7 +7760,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 156.21 35.306 0)
+			(at 212.852 34.798 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7769,7 +7769,7 @@
 			)
 		)
 		(property "Mouser_PN" " 653-B3F-5050"
-			(at 156.21 35.306 0)
+			(at 212.852 34.798 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7778,7 +7778,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 156.21 35.306 0)
+			(at 212.852 34.798 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7787,7 +7787,7 @@
 			)
 		)
 		(property "OC_FARNELL" ""
-			(at 156.21 35.306 0)
+			(at 212.852 34.798 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7796,7 +7796,7 @@
 			)
 		)
 		(property "OC_NEWARK" ""
-			(at 156.21 35.306 0)
+			(at 212.852 34.798 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7805,7 +7805,7 @@
 			)
 		)
 		(property "PACKAGE" ""
-			(at 156.21 35.306 0)
+			(at 212.852 34.798 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7814,7 +7814,7 @@
 			)
 		)
 		(property "SUPPLIER" ""
-			(at 156.21 35.306 0)
+			(at 212.852 34.798 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7823,7 +7823,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 156.21 35.306 0)
+			(at 212.852 34.798 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7832,7 +7832,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 156.21 35.306 0)
+			(at 212.852 34.798 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7849,7 +7849,7 @@
 		(instances
 			(project "py_dash_pcb_7"
 				(path "/84878699-1e21-48de-ad1b-9d4034e33e81/fd2b2dcc-751c-4523-8783-f08253743a66"
-					(reference "SW1")
+					(reference "SW4")
 					(unit 1)
 				)
 			)
@@ -7857,7 +7857,7 @@
 	)
 	(symbol
 		(lib_id "user:B3F_5050")
-		(at 212.852 80.518 0)
+		(at 158.75 80.264 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7865,8 +7865,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9a40e6ce-ecff-4a9e-99f0-054564e0ec2d")
-		(property "Reference" "SW6"
-			(at 212.852 72.39 0)
+		(property "Reference" "SW3"
+			(at 158.75 72.136 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7874,7 +7874,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 212.852 74.93 0)
+			(at 158.75 74.676 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7882,7 +7882,7 @@
 			)
 		)
 		(property "Footprint" "user:SW_B3F-4050_OMR"
-			(at 212.852 75.438 0)
+			(at 158.75 75.184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7891,7 +7891,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 212.852 75.438 0)
+			(at 158.75 75.184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7900,7 +7900,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 212.852 80.518 0)
+			(at 158.75 80.264 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7909,7 +7909,7 @@
 			)
 		)
 		(property "Mouser_PN" " 653-B3F-5050"
-			(at 212.852 80.518 0)
+			(at 158.75 80.264 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7918,7 +7918,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 212.852 80.518 0)
+			(at 158.75 80.264 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7927,7 +7927,7 @@
 			)
 		)
 		(property "OC_FARNELL" ""
-			(at 212.852 80.518 0)
+			(at 158.75 80.264 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7936,7 +7936,7 @@
 			)
 		)
 		(property "OC_NEWARK" ""
-			(at 212.852 80.518 0)
+			(at 158.75 80.264 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7945,7 +7945,7 @@
 			)
 		)
 		(property "PACKAGE" ""
-			(at 212.852 80.518 0)
+			(at 158.75 80.264 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7954,7 +7954,7 @@
 			)
 		)
 		(property "SUPPLIER" ""
-			(at 212.852 80.518 0)
+			(at 158.75 80.264 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7963,7 +7963,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 212.852 80.518 0)
+			(at 158.75 80.264 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7972,7 +7972,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 212.852 80.518 0)
+			(at 158.75 80.264 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7989,7 +7989,7 @@
 		(instances
 			(project "py_dash_pcb_7"
 				(path "/84878699-1e21-48de-ad1b-9d4034e33e81/fd2b2dcc-751c-4523-8783-f08253743a66"
-					(reference "SW6")
+					(reference "SW3")
 					(unit 1)
 				)
 			)
@@ -7997,7 +7997,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 200.152 53.594 0)
+		(at 146.05 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8006,7 +8006,7 @@
 		(fields_autoplaced yes)
 		(uuid "a1d3c369-6ef6-41ec-88e0-1c2038617124")
 		(property "Reference" "R25"
-			(at 202.692 52.3239 0)
+			(at 148.59 52.0699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8015,7 +8015,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 202.692 54.8639 0)
+			(at 148.59 54.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8024,7 +8024,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 200.152 53.594 0)
+			(at 146.05 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8033,7 +8033,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 200.152 53.594 0)
+			(at 146.05 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8042,7 +8042,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 200.152 53.594 0)
+			(at 146.05 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8051,7 +8051,7 @@
 			)
 		)
 		(property "Mouser_PN" "71-CRCW0805-10K-E3"
-			(at 200.152 53.594 0)
+			(at 146.05 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8060,7 +8060,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 200.152 53.594 0)
+			(at 146.05 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8069,7 +8069,7 @@
 			)
 		)
 		(property "OC_FARNELL" ""
-			(at 200.152 53.594 0)
+			(at 146.05 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8078,7 +8078,7 @@
 			)
 		)
 		(property "OC_NEWARK" ""
-			(at 200.152 53.594 0)
+			(at 146.05 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8087,7 +8087,7 @@
 			)
 		)
 		(property "PACKAGE" ""
-			(at 200.152 53.594 0)
+			(at 146.05 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8096,7 +8096,7 @@
 			)
 		)
 		(property "SUPPLIER" ""
-			(at 200.152 53.594 0)
+			(at 146.05 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8105,7 +8105,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 200.152 53.594 0)
+			(at 146.05 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8114,7 +8114,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 200.152 53.594 0)
+			(at 146.05 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8139,7 +8139,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 161.29 35.306 90)
+		(at 217.932 34.798 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8148,7 +8148,7 @@
 		(fields_autoplaced yes)
 		(uuid "a9d74a0f-3f70-4870-9da8-55714d138dbb")
 		(property "Reference" "#PWR050"
-			(at 167.64 35.306 0)
+			(at 224.282 34.798 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8157,7 +8157,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 165.354 35.3059 90)
+			(at 221.996 34.7979 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8166,7 +8166,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 161.29 35.306 0)
+			(at 217.932 34.798 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8175,7 +8175,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 161.29 35.306 0)
+			(at 217.932 34.798 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8184,7 +8184,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 161.29 35.306 0)
+			(at 217.932 34.798 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8206,7 +8206,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 144.526 77.978 0)
+		(at 201.168 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8215,7 +8215,7 @@
 		(fields_autoplaced yes)
 		(uuid "b6618b28-1eab-414d-9b1b-be298f28b37d")
 		(property "Reference" "R20"
-			(at 147.066 76.7079 0)
+			(at 203.708 76.1999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8224,7 +8224,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 147.066 79.2479 0)
+			(at 203.708 78.7399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8233,7 +8233,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 144.526 77.978 0)
+			(at 201.168 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8242,7 +8242,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 144.526 77.978 0)
+			(at 201.168 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8251,7 +8251,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 144.526 77.978 0)
+			(at 201.168 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8260,7 +8260,7 @@
 			)
 		)
 		(property "Mouser_PN" "71-CRCW0805-10K-E3"
-			(at 144.526 77.978 0)
+			(at 201.168 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8269,7 +8269,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 144.526 77.978 0)
+			(at 201.168 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8278,7 +8278,7 @@
 			)
 		)
 		(property "OC_FARNELL" ""
-			(at 144.526 77.978 0)
+			(at 201.168 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8287,7 +8287,7 @@
 			)
 		)
 		(property "OC_NEWARK" ""
-			(at 144.526 77.978 0)
+			(at 201.168 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8296,7 +8296,7 @@
 			)
 		)
 		(property "PACKAGE" ""
-			(at 144.526 77.978 0)
+			(at 201.168 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8305,7 +8305,7 @@
 			)
 		)
 		(property "SUPPLIER" ""
-			(at 144.526 77.978 0)
+			(at 201.168 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8314,7 +8314,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 144.526 77.978 0)
+			(at 201.168 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8323,7 +8323,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 144.526 77.978 0)
+			(at 201.168 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8489,7 +8489,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 195.58 35.306 90)
+		(at 141.478 35.052 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8498,7 +8498,7 @@
 		(fields_autoplaced yes)
 		(uuid "c125ee44-d99c-4aee-b3ae-dd6d20b62751")
 		(property "Reference" "R21"
-			(at 195.58 28.956 90)
+			(at 141.478 28.702 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8506,7 +8506,7 @@
 			)
 		)
 		(property "Value" "27k"
-			(at 195.58 31.496 90)
+			(at 141.478 31.242 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8514,7 +8514,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 195.58 35.306 0)
+			(at 141.478 35.052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8523,7 +8523,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 195.58 35.306 0)
+			(at 141.478 35.052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8532,7 +8532,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 195.58 35.306 0)
+			(at 141.478 35.052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8541,7 +8541,7 @@
 			)
 		)
 		(property "Mouser_PN" "71-CRCW0805-27K-E3"
-			(at 195.58 35.306 0)
+			(at 141.478 35.052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8550,7 +8550,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 195.58 35.306 0)
+			(at 141.478 35.052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8559,7 +8559,7 @@
 			)
 		)
 		(property "OC_FARNELL" ""
-			(at 195.58 35.306 0)
+			(at 141.478 35.052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8568,7 +8568,7 @@
 			)
 		)
 		(property "OC_NEWARK" ""
-			(at 195.58 35.306 0)
+			(at 141.478 35.052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8577,7 +8577,7 @@
 			)
 		)
 		(property "PACKAGE" ""
-			(at 195.58 35.306 0)
+			(at 141.478 35.052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8586,7 +8586,7 @@
 			)
 		)
 		(property "SUPPLIER" ""
-			(at 195.58 35.306 0)
+			(at 141.478 35.052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8595,7 +8595,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 195.58 35.306 0)
+			(at 141.478 35.052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8604,7 +8604,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 195.58 35.306 0)
+			(at 141.478 35.052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8892,7 +8892,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 135.636 40.386 0)
+		(at 192.278 39.878 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8900,7 +8900,7 @@
 		(dnp no)
 		(uuid "c6dde83c-f3b0-4a17-8ff1-81a529d9c065")
 		(property "Reference" "#PWR044"
-			(at 135.636 46.736 0)
+			(at 192.278 46.228 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8909,7 +8909,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 132.334 42.926 0)
+			(at 188.976 42.418 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8917,7 +8917,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 135.636 40.386 0)
+			(at 192.278 39.878 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8926,7 +8926,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 135.636 40.386 0)
+			(at 192.278 39.878 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8935,7 +8935,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 135.636 40.386 0)
+			(at 192.278 39.878 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8957,7 +8957,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 161.798 56.134 90)
+		(at 218.44 55.626 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8966,7 +8966,7 @@
 		(fields_autoplaced yes)
 		(uuid "ce0a9869-9fd8-4195-808a-a31d87326241")
 		(property "Reference" "#PWR051"
-			(at 168.148 56.134 0)
+			(at 224.79 55.626 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8975,7 +8975,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 165.862 56.1339 90)
+			(at 222.504 55.6259 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8984,7 +8984,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 161.798 56.134 0)
+			(at 218.44 55.626 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8993,7 +8993,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 161.798 56.134 0)
+			(at 218.44 55.626 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9002,7 +9002,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 161.798 56.134 0)
+			(at 218.44 55.626 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9230,7 +9230,7 @@
 	)
 	(symbol
 		(lib_id "user:B3F_5050")
-		(at 212.598 56.134 0)
+		(at 158.496 55.88 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9238,8 +9238,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d57da465-76c2-4219-a10a-ad2535b40fcd")
-		(property "Reference" "SW5"
-			(at 212.598 48.26 0)
+		(property "Reference" "SW2"
+			(at 158.496 48.006 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9247,7 +9247,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 212.598 50.8 0)
+			(at 158.496 50.546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9255,7 +9255,7 @@
 			)
 		)
 		(property "Footprint" "user:SW_B3F-4050_OMR"
-			(at 212.598 51.054 0)
+			(at 158.496 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9264,7 +9264,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 212.598 51.054 0)
+			(at 158.496 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9273,7 +9273,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 212.598 56.134 0)
+			(at 158.496 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9282,7 +9282,7 @@
 			)
 		)
 		(property "Mouser_PN" " 653-B3F-5050"
-			(at 212.598 56.134 0)
+			(at 158.496 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9291,7 +9291,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 212.598 56.134 0)
+			(at 158.496 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9300,7 +9300,7 @@
 			)
 		)
 		(property "OC_FARNELL" ""
-			(at 212.598 56.134 0)
+			(at 158.496 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9309,7 +9309,7 @@
 			)
 		)
 		(property "OC_NEWARK" ""
-			(at 212.598 56.134 0)
+			(at 158.496 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9318,7 +9318,7 @@
 			)
 		)
 		(property "PACKAGE" ""
-			(at 212.598 56.134 0)
+			(at 158.496 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9327,7 +9327,7 @@
 			)
 		)
 		(property "SUPPLIER" ""
-			(at 212.598 56.134 0)
+			(at 158.496 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9336,7 +9336,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 212.598 56.134 0)
+			(at 158.496 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9345,7 +9345,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 212.598 56.134 0)
+			(at 158.496 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9362,7 +9362,7 @@
 		(instances
 			(project "py_dash_pcb_7"
 				(path "/84878699-1e21-48de-ad1b-9d4034e33e81/fd2b2dcc-751c-4523-8783-f08253743a66"
-					(reference "SW5")
+					(reference "SW2")
 					(unit 1)
 				)
 			)
@@ -9515,7 +9515,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 192.278 85.598 0)
+		(at 138.176 85.344 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9523,7 +9523,7 @@
 		(dnp no)
 		(uuid "e4f9b87e-d872-4095-b422-a86800c1fa65")
 		(property "Reference" "#PWR055"
-			(at 192.278 91.948 0)
+			(at 138.176 91.694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9532,7 +9532,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 188.976 88.138 0)
+			(at 134.874 87.884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9540,7 +9540,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 192.278 85.598 0)
+			(at 138.176 85.344 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9549,7 +9549,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 192.278 85.598 0)
+			(at 138.176 85.344 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9558,7 +9558,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 192.278 85.598 0)
+			(at 138.176 85.344 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9580,7 +9580,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 199.644 32.766 0)
+		(at 145.542 32.512 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9589,7 +9589,7 @@
 		(fields_autoplaced yes)
 		(uuid "e5e02989-40b7-4987-b865-9fa3df119a70")
 		(property "Reference" "R24"
-			(at 202.184 31.4959 0)
+			(at 148.082 31.2419 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9598,7 +9598,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 202.184 34.0359 0)
+			(at 148.082 33.7819 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9607,7 +9607,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 199.644 32.766 0)
+			(at 145.542 32.512 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9616,7 +9616,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 199.644 32.766 0)
+			(at 145.542 32.512 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9625,7 +9625,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 199.644 32.766 0)
+			(at 145.542 32.512 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9634,7 +9634,7 @@
 			)
 		)
 		(property "Mouser_PN" "71-CRCW0805-10K-E3"
-			(at 199.644 32.766 0)
+			(at 145.542 32.512 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9643,7 +9643,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 199.644 32.766 0)
+			(at 145.542 32.512 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9652,7 +9652,7 @@
 			)
 		)
 		(property "OC_FARNELL" ""
-			(at 199.644 32.766 0)
+			(at 145.542 32.512 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9661,7 +9661,7 @@
 			)
 		)
 		(property "OC_NEWARK" ""
-			(at 199.644 32.766 0)
+			(at 145.542 32.512 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9670,7 +9670,7 @@
 			)
 		)
 		(property "PACKAGE" ""
-			(at 199.644 32.766 0)
+			(at 145.542 32.512 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9679,7 +9679,7 @@
 			)
 		)
 		(property "SUPPLIER" ""
-			(at 199.644 32.766 0)
+			(at 145.542 32.512 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9688,7 +9688,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 199.644 32.766 0)
+			(at 145.542 32.512 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9697,7 +9697,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 199.644 32.766 0)
+			(at 145.542 32.512 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9722,7 +9722,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 140.462 80.518 90)
+		(at 197.104 80.01 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9731,7 +9731,7 @@
 		(fields_autoplaced yes)
 		(uuid "f4babee3-cf36-48eb-b69f-8bd108c20a2a")
 		(property "Reference" "R17"
-			(at 140.462 74.168 90)
+			(at 197.104 73.66 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9739,7 +9739,7 @@
 			)
 		)
 		(property "Value" "27k"
-			(at 140.462 76.708 90)
+			(at 197.104 76.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9747,7 +9747,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 140.462 80.518 0)
+			(at 197.104 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9756,7 +9756,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 140.462 80.518 0)
+			(at 197.104 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9765,7 +9765,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 140.462 80.518 0)
+			(at 197.104 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9774,7 +9774,7 @@
 			)
 		)
 		(property "Mouser_PN" "71-CRCW0805-27K-E3"
-			(at 140.462 80.518 0)
+			(at 197.104 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9783,7 +9783,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 140.462 80.518 0)
+			(at 197.104 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9792,7 +9792,7 @@
 			)
 		)
 		(property "OC_FARNELL" ""
-			(at 140.462 80.518 0)
+			(at 197.104 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9801,7 +9801,7 @@
 			)
 		)
 		(property "OC_NEWARK" ""
-			(at 140.462 80.518 0)
+			(at 197.104 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9810,7 +9810,7 @@
 			)
 		)
 		(property "PACKAGE" ""
-			(at 140.462 80.518 0)
+			(at 197.104 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9819,7 +9819,7 @@
 			)
 		)
 		(property "SUPPLIER" ""
-			(at 140.462 80.518 0)
+			(at 197.104 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9828,7 +9828,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 140.462 80.518 0)
+			(at 197.104 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9837,7 +9837,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 140.462 80.518 0)
+			(at 197.104 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10002,7 +10002,7 @@
 	)
 	(symbol
 		(lib_id "user:B3F_5050")
-		(at 212.09 35.306 0)
+		(at 157.988 35.052 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10010,8 +10010,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fbaa6f29-736c-4206-b191-06dc8de88d6c")
-		(property "Reference" "SW4"
-			(at 212.09 27.94 0)
+		(property "Reference" "SW1"
+			(at 157.988 27.686 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10019,7 +10019,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 212.09 30.48 0)
+			(at 157.988 30.226 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10027,7 +10027,7 @@
 			)
 		)
 		(property "Footprint" "user:SW_B3F-4050_OMR"
-			(at 212.09 30.226 0)
+			(at 157.988 29.972 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10036,7 +10036,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 212.09 30.226 0)
+			(at 157.988 29.972 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10045,7 +10045,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 212.09 35.306 0)
+			(at 157.988 35.052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10054,7 +10054,7 @@
 			)
 		)
 		(property "Mouser_PN" " 653-B3F-5050"
-			(at 212.09 35.306 0)
+			(at 157.988 35.052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10063,7 +10063,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 212.09 35.306 0)
+			(at 157.988 35.052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10072,7 +10072,7 @@
 			)
 		)
 		(property "OC_FARNELL" ""
-			(at 212.09 35.306 0)
+			(at 157.988 35.052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10081,7 +10081,7 @@
 			)
 		)
 		(property "OC_NEWARK" ""
-			(at 212.09 35.306 0)
+			(at 157.988 35.052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10090,7 +10090,7 @@
 			)
 		)
 		(property "PACKAGE" ""
-			(at 212.09 35.306 0)
+			(at 157.988 35.052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10099,7 +10099,7 @@
 			)
 		)
 		(property "SUPPLIER" ""
-			(at 212.09 35.306 0)
+			(at 157.988 35.052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10108,7 +10108,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 212.09 35.306 0)
+			(at 157.988 35.052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10117,7 +10117,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 212.09 35.306 0)
+			(at 157.988 35.052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10134,7 +10134,7 @@
 		(instances
 			(project "py_dash_pcb_7"
 				(path "/84878699-1e21-48de-ad1b-9d4034e33e81/fd2b2dcc-751c-4523-8783-f08253743a66"
-					(reference "SW4")
+					(reference "SW1")
 					(unit 1)
 				)
 			)
@@ -10142,7 +10142,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 191.516 40.386 0)
+		(at 137.414 40.132 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10150,7 +10150,7 @@
 		(dnp no)
 		(uuid "fc6f1ae0-9375-4048-9ddf-d7e866b86e1d")
 		(property "Reference" "#PWR053"
-			(at 191.516 46.736 0)
+			(at 137.414 46.482 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10159,7 +10159,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 188.214 42.926 0)
+			(at 134.112 42.672 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10167,7 +10167,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 191.516 40.386 0)
+			(at 137.414 40.132 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10176,7 +10176,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 191.516 40.386 0)
+			(at 137.414 40.132 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10185,7 +10185,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 191.516 40.386 0)
+			(at 137.414 40.132 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10207,7 +10207,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 140.208 56.134 90)
+		(at 196.85 55.626 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10216,7 +10216,7 @@
 		(fields_autoplaced yes)
 		(uuid "fc8a662b-1c98-4658-916c-f6a101572aac")
 		(property "Reference" "R16"
-			(at 140.208 49.784 90)
+			(at 196.85 49.276 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10224,7 +10224,7 @@
 			)
 		)
 		(property "Value" "27k"
-			(at 140.208 52.324 90)
+			(at 196.85 51.816 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10232,7 +10232,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 140.208 56.134 0)
+			(at 196.85 55.626 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10241,7 +10241,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 140.208 56.134 0)
+			(at 196.85 55.626 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10250,7 +10250,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 140.208 56.134 0)
+			(at 196.85 55.626 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10259,7 +10259,7 @@
 			)
 		)
 		(property "Mouser_PN" "71-CRCW0805-27K-E3"
-			(at 140.208 56.134 0)
+			(at 196.85 55.626 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10268,7 +10268,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 140.208 56.134 0)
+			(at 196.85 55.626 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10277,7 +10277,7 @@
 			)
 		)
 		(property "OC_FARNELL" ""
-			(at 140.208 56.134 0)
+			(at 196.85 55.626 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10286,7 +10286,7 @@
 			)
 		)
 		(property "OC_NEWARK" ""
-			(at 140.208 56.134 0)
+			(at 196.85 55.626 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10295,7 +10295,7 @@
 			)
 		)
 		(property "PACKAGE" ""
-			(at 140.208 56.134 0)
+			(at 196.85 55.626 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10304,7 +10304,7 @@
 			)
 		)
 		(property "SUPPLIER" ""
-			(at 140.208 56.134 0)
+			(at 196.85 55.626 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10313,7 +10313,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 140.208 56.134 0)
+			(at 196.85 55.626 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10322,7 +10322,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 140.208 56.134 0)
+			(at 196.85 55.626 0)
 			(effects
 				(font
 					(size 1.27 1.27)

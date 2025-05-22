@@ -5343,7 +5343,7 @@
 			)
 		)
 	)
-	(global_label "btn_L3"
+	(global_label "btn_R3"
 		(shape input)
 		(at 109.22 121.92 0)
 		(fields_autoplaced yes)
@@ -5355,7 +5355,7 @@
 		)
 		(uuid "15d9a9d9-5dd4-4808-aa64-b041f84b3fb0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 117.8621 121.8406 0)
+			(at 118.676 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5409,7 +5409,7 @@
 			)
 		)
 	)
-	(global_label "btn_R1"
+	(global_label "btn_L1"
 		(shape input)
 		(at 109.22 114.3 0)
 		(fields_autoplaced yes)
@@ -5421,7 +5421,7 @@
 		)
 		(uuid "2ffb6557-07c3-49b3-8eea-8252fed8549b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 118.1041 114.2206 0)
+			(at 118.4341 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5717,7 +5717,7 @@
 			)
 		)
 	)
-	(global_label "btn_L2"
+	(global_label "btn_R2"
 		(shape input)
 		(at 109.22 63.5 0)
 		(fields_autoplaced yes)
@@ -5729,7 +5729,7 @@
 		)
 		(uuid "8b67d6fd-75d1-4cdf-bf9d-ba351ce286e7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 117.8621 63.4206 0)
+			(at 118.676 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5761,7 +5761,7 @@
 			)
 		)
 	)
-	(global_label "btn_L1"
+	(global_label "btn_R1"
 		(shape input)
 		(at 109.22 58.42 0)
 		(fields_autoplaced yes)
@@ -5773,7 +5773,7 @@
 		)
 		(uuid "9aa86bcb-1328-44d8-bbbb-c14dd629b449")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 117.8621 58.3406 0)
+			(at 118.676 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5783,7 +5783,7 @@
 			)
 		)
 	)
-	(global_label "btn_R3"
+	(global_label "btn_L3"
 		(shape input)
 		(at 109.22 68.58 0)
 		(fields_autoplaced yes)
@@ -5795,7 +5795,7 @@
 		)
 		(uuid "a9db49d2-fa29-44a0-8603-afbc8b53cbf7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 118.1041 68.5006 0)
+			(at 118.4341 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5849,7 +5849,7 @@
 			)
 		)
 	)
-	(global_label "btn_R2"
+	(global_label "btn_L2"
 		(shape input)
 		(at 109.22 101.6 0)
 		(fields_autoplaced yes)
@@ -5861,7 +5861,7 @@
 		)
 		(uuid "c556dbaa-78f3-42ec-a79d-e929e3f6f595")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 118.1041 101.5206 0)
+			(at 118.4341 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
