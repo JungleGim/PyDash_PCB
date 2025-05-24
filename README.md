@@ -18,7 +18,10 @@ Additional details on the design considerations, required packages, and key feat
 	
 ## Future Development
 The below is a list of wants/needs for future revisions; loosely listed in order of importance.
+
 - USB port is routed but not functional; app design requires additional features
+- Update mounting holes for CM4 to solder pads for use of solder-on standoffs to attach CM4
+- Scope out board assembly cost
 
 # Methodology
 ## History
