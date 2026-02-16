@@ -15,6 +15,11 @@ Additional details on the design considerations, required packages, and key feat
 	- Initial issue
 - Rev1a: 05/19/2025
 	- Fixed button numbering to be appropriate when viewing the screen
+- Rev2a: 02/15/2026
+	- updates realted to Rev2.0a rebuild - includes new features and code architecture
+	- Added micro SD socket for users to load dash config files
+	- Updated USB port to USBC
+	- Removed touch lines from screen and removed USB mux - no plans to utilize touch in future
 	
 ## Future Development
 The below is a list of wants/needs for future revisions; loosely listed in order of importance.
