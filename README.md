@@ -1,9 +1,9 @@
 # PyDash_PCB - Information
 This readme covers the printed circuit board or PCB portion of the PyDash. For the App design, Enclosure design, or OS design, see the below repositories:
-- [PyDash_PCB](https://github.com/JungleGim/PyDash_PCB)
-- [PyDash_App](https://github.com/JungleGim/PyDash_App)
 - [PyDash_OS](https://github.com/JungleGim/PyDash_OS)
-- PyDash_Enclosure
+- [PyDash_App](https://github.com/JungleGim/PyDash_App)
+- [PyDash_PCB](https://github.com/JungleGim/PyDash_PCB)
+- [PyDash_Enclosure](https://github.com/JungleGim/PyDash_Enclosure)
 - [PyDash_Builder](https://github.com/JungleGim/PyDash_Builder)
 
 ## Introduction
