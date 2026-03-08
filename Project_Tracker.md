@@ -43,9 +43,17 @@ The below are design updates that need to be performed for the HDMI related comp
 
 ## Misc
 * Updated BOM
+	- Generate the final BOM with updated part nubmers and sources where appropriate
+* Updated models
+	- Buttons
+		+ the current user buttons have a simplified representation that do not use the key caps included in the BOM
+		+ update / re-model the user access keys to match the actual used part
 
 # Development Finishing
-(None)
+* radius PCB edges
+	- The current PCB has simplied square edge cuts. For some reason the latest KiCad release was unable to export the bord as an STL with the radiused edges, even when snapping to the connection points
+	- For now, a simplified squared outline and cutout were used to aid in developing the enclosure
+	- Before finalization, the edges should be radiused
 
 # Future Updates
 Include any items below in the appropriate README.md file section
