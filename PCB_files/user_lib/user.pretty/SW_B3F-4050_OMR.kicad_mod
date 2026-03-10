@@ -1,7 +1,7 @@
 (footprint "SW_B3F-4050_OMR"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(tags "B3F-5050 ")
 	(property "Reference" "REF**"
@@ -28,18 +28,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "31f4edc5-73ba-43ba-ba39-71dfa2cf24f5")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -49,6 +37,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -61,21 +50,11 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
 	(attr through_hole)
-	(fp_circle
-		(center 0 -5.08)
-		(end 0.127 -5.08)
-		(stroke
-			(width 0.254)
-			(type solid)
-		)
-		(fill none)
-		(layer "B.SilkS")
-		(uuid "0eb24f18-fe0e-4352-b23a-c3041235399d")
-	)
 	(fp_line
 		(start 0.123002 -3.626998)
 		(end 0.123002 -1.180296)
@@ -163,9 +142,20 @@
 			(width 0.254)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "44514b5d-10e3-4c06-be41-02d9175e08fb")
+	)
+	(fp_circle
+		(center 0 -5.08)
+		(end 0.127 -5.08)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(fill no)
+		(layer "B.SilkS")
+		(uuid "0eb24f18-fe0e-4352-b23a-c3041235399d")
 	)
 	(fp_line
 		(start -1.107948 -1.107948)
@@ -494,7 +484,7 @@
 			(width 0.254)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "795e0f64-68ec-41fe-aec5-57567d68e0bf")
 	)
@@ -505,7 +495,7 @@
 			(width 0.0254)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "aaba17f7-88d1-4220-be76-31f10482bc58")
 	)
@@ -567,7 +557,8 @@
 		(remove_unused_layers no)
 		(uuid "67a82b85-9093-44a7-93c8-e54aea86661f")
 	)
-	(model "${KIPRJMOD}/user_lib/B3F_5050/B3F-5050.STEP"
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/user_lib/B3F_5050/B3F-5050_12mm_keycap.STEP"
 		(offset
 			(xyz 6.25 -2.5 0.1)
 		)

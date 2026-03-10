@@ -57,9 +57,29 @@
           "gap": 0.0,
           "via_gap": 0.0,
           "width": 0.0
+        },
+        {
+          "gap": 0.2,
+          "via_gap": 0.25,
+          "width": 0.18
+        },
+        {
+          "gap": 0.3,
+          "via_gap": 0.3,
+          "width": 0.18
+        },
+        {
+          "gap": 0.2,
+          "via_gap": 0.25,
+          "width": 0.2
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "footprint_type_mismatch|152908000|75565000|f8317f07-6721-4808-a6ae-4543f6036d51|00000000-0000-0000-0000-000000000000",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -195,6 +215,7 @@
       ],
       "track_widths": [
         0.0,
+        0.18,
         0.2,
         0.3,
         0.4,
