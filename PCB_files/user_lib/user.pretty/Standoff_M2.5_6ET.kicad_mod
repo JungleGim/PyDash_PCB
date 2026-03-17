@@ -1,4 +1,4 @@
-(footprint "Standoff_M2.5_5ET"
+(footprint "Standoff_M2.5_6ET"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "Standoff_M2.5_5ET"
+	(property "Value" "Standoff_M2.5_6ET"
 		(at 0.02 4.25 0)
 		(layer "F.Fab")
 		(uuid "431aa36c-7bb4-4675-b4bd-2ce7734abc0f")
@@ -95,7 +95,7 @@
 		(uuid "ec175b5b-0f84-4093-be60-56df628a4d6c")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/user_lib/M2.5_5mm_standoff.STEP"
+	(model "${KIPRJMOD}/user_lib/M2.5_6mm_standoff.STEP"
 		(offset
 			(xyz 0 0 0)
 		)

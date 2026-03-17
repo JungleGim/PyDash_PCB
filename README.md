@@ -26,7 +26,6 @@ Additional details on the design considerations, required packages, and key feat
 ## Future Development
 The below is a list of wants/needs for future revisions; loosely listed in order of importance.
 
-- USB port is routed but not functional; app design requires additional features
 - Update mounting holes for CM4 to solder pads for use of solder-on standoffs to attach CM4
 - Scope out board assembly cost
 
@@ -35,9 +34,38 @@ The below is a list of wants/needs for future revisions; loosely listed in order
 TBD: quick detail starting with the arduino + daughter board on the 5in display as a proof of concept
 
 ## Key Considerations and Constraints
-TBD: power supply and other notes (approx 350mA draw when running)
-TBD: PWM backlight notes
-TBD: display notes (especially different considerations)
+The following sections are some notes on the various considerations or any constraints when designing the display.
+
+### Power Supply
+As built, with the sourced display and components in the BOM, the display uses approximately 350-400mA when operation, at 100% backlight.
+
+### Display
+The chosen display is a 7inch 1024x600 IPS display sourced from waveshare [link](https://www.waveshare.com/70h-1024600.htm?sku=22671). The display is fastened to the carrier PCB via double-sided foam tape. The 40pin FPC jack directly connects to the HDMI output from the CM4.
+
+To control the backlight via PWM, drive the "BL_en" pin high. The PWM signal is scaled from 1024 (100%) to 0 (0) for brightest to darkest.
+
+Any HDMI compatable display should be able to be used with this design. While the FPC cable was a design choice, any other HDMI connection should be appropriate, depending on the chosen display.
+
+Additional considerations for the HDMI hardware and driver configuration is contained in the "PyDash OS" readme.
+
+#### PCB stackup
+JLC PCB stackups for TDMS impedence considerations
+
+* Chosen stackup: JLC04121H-3313 – 1oz (0.035mm) outer layer
+	+ Chosen stackup option
+	+ Top to inner 1 and inner 2 to bot separation is 0.1
+	+ requires 0.18mm trace width for single-ended impedence target
+	+ 0.3mm separation for differential impedence target
+
+* Other available options with calculated requirements
+	+ JLC04121H-7628 - 1oz (0.035mm) outer layer
+		* Top to inner 1 and inner 2 to bot separation is 0.2
+		* requires 0.3mm trace width for single-ended impedence target
+		* 0.25mm separation for differential impedence target
+	+ JLC04121H-1080 Stackup – 1oz (0.035mm) outer layer
+		* Top to inner 1 and inner 2 to bot separation is 0.0764
+		* requires 0.13mm width
+		* 0.20mm separation for differential impedence target
 
 # Known bugs and bug fixes
 No current known bugs

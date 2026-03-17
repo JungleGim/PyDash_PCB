@@ -4527,16 +4527,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "80-C0805C106K4PAC"
-			(at 163.83 75.565 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "C0805C106K4PAC"
 			(at 163.83 75.565 0)
 			(effects
 				(font
@@ -4591,6 +4582,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 163.83 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "80-C0805C106K4PAC"
+			(at 163.83 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 163.83 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kemet"
 			(at 163.83 75.565 0)
 			(effects
 				(font
@@ -4731,16 +4749,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "710-150080RS75000"
-			(at 35.179 126.238 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "150080RS75000"
 			(at 35.179 126.238 0)
 			(effects
 				(font
@@ -4796,6 +4805,33 @@
 		)
 		(property "Sim.Pins" ""
 			(at 35.179 126.238 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "710-150080RS75000"
+			(at 35.179 126.238 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 35.179 126.238 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Wurth"
+			(at 35.179 126.238 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4872,16 +4908,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "71-CRCW0805-12K"
-			(at 225.298 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "CRCW080512K0FKTA"
 			(at 225.298 41.91 0)
 			(effects
 				(font
@@ -4936,6 +4963,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 225.298 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "71-CRCW0805-12K"
+			(at 225.298 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 225.298 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Vishay"
 			(at 225.298 41.91 0)
 			(effects
 				(font
@@ -5013,16 +5067,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "80-C0805C106K4PAC"
-			(at 180.34 75.565 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "C0805C106K4PAC"
 			(at 180.34 75.565 0)
 			(effects
 				(font
@@ -5077,6 +5122,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 180.34 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "80-C0805C106K4PAC"
+			(at 180.34 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 180.34 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kemet"
 			(at 180.34 75.565 0)
 			(effects
 				(font
@@ -5154,16 +5226,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "71-CRCW0805-20K-E3"
-			(at 220.218 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "CRCW080520K0FKEA"
 			(at 220.218 54.61 0)
 			(effects
 				(font
@@ -5218,6 +5281,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 220.218 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "71-CRCW0805-20K-E3"
+			(at 220.218 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 220.218 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Vishay"
 			(at 220.218 54.61 0)
 			(effects
 				(font
@@ -5295,16 +5385,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "80-C0805C104M5R"
-			(at 180.213 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "C0805C104M5RACTU"
 			(at 180.213 34.29 0)
 			(effects
 				(font
@@ -5359,6 +5440,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 180.213 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "80-C0805C104M5R"
+			(at 180.213 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 180.213 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kemet"
 			(at 180.213 34.29 0)
 			(effects
 				(font
@@ -5828,16 +5936,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "621-DMG2307L-7"
-			(at 60.706 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "DMG2307L-7"
 			(at 60.706 48.26 0)
 			(effects
 				(font
@@ -5893,6 +5992,33 @@
 		)
 		(property "Sim.Pins" ""
 			(at 60.706 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "621-DMG2307L-7"
+			(at 60.706 48.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 60.706 48.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Diodes"
+			(at 60.706 48.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5989,7 +6115,7 @@
 		(at 83.82 133.35 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -6031,15 +6157,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 83.82 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser_PN" "N/A"
 			(at 83.82 133.35 0)
 			(effects
 				(font
@@ -6104,6 +6221,33 @@
 		)
 		(property "Sim.Pins" ""
 			(at 83.82 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "N/A"
+			(at 83.82 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "N/A"
+			(at 83.82 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 83.82 133.35 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6177,16 +6321,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "80-C0805C106K4PAC"
-			(at 240.03 75.565 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "C0805C106K4PAC"
 			(at 240.03 75.565 0)
 			(effects
 				(font
@@ -6241,6 +6376,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 240.03 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "80-C0805C106K4PAC"
+			(at 240.03 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 240.03 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kemet"
 			(at 240.03 75.565 0)
 			(effects
 				(font
@@ -6318,16 +6480,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "80-C0805C105M3R"
-			(at 136.906 121.793 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "C0805C105M3RACTU"
 			(at 136.906 121.793 0)
 			(effects
 				(font
@@ -6382,6 +6535,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 136.906 121.793 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "80-C0805C105M3R"
+			(at 136.906 121.793 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 136.906 121.793 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kemet"
 			(at 136.906 121.793 0)
 			(effects
 				(font
@@ -6459,16 +6639,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "80-C0805C106K4PAC"
-			(at 172.085 75.565 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "C0805C106K4PAC"
 			(at 172.085 75.565 0)
 			(effects
 				(font
@@ -6523,6 +6694,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 172.085 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "80-C0805C106K4PAC"
+			(at 172.085 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 172.085 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kemet"
 			(at 172.085 75.565 0)
 			(effects
 				(font
@@ -6600,16 +6798,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "80-C0805C106K4PAC"
-			(at 154.94 75.565 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "C0805C106K4PAC"
 			(at 154.94 75.565 0)
 			(effects
 				(font
@@ -6664,6 +6853,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 154.94 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "80-C0805C106K4PAC"
+			(at 154.94 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 154.94 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kemet"
 			(at 154.94 75.565 0)
 			(effects
 				(font
@@ -6741,16 +6957,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "80-C0805C105M3R"
-			(at 40.513 56.261 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "C0805C105M3RACTU"
 			(at 40.513 56.261 0)
 			(effects
 				(font
@@ -6805,6 +7012,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 40.513 56.261 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "80-C0805C105M3R"
+			(at 40.513 56.261 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 40.513 56.261 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kemet"
 			(at 40.513 56.261 0)
 			(effects
 				(font
@@ -6880,16 +7114,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "863-MMSZ27T1G"
-			(at 175.768 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "MMSZ27T1G"
 			(at 175.768 43.18 0)
 			(effects
 				(font
@@ -6944,6 +7169,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 175.768 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "863-MMSZ27T1G"
+			(at 175.768 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 175.768 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "OnSemi"
 			(at 175.768 43.18 0)
 			(effects
 				(font
@@ -7087,16 +7339,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "71-CRCW0805-2.2K-E3"
-			(at 225.298 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "CRCW08052K20FKEA"
 			(at 225.298 54.61 0)
 			(effects
 				(font
@@ -7151,6 +7394,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 225.298 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "71-CRCW0805-2.2K-E3"
+			(at 225.298 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 225.298 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Vishay"
 			(at 225.298 54.61 0)
 			(effects
 				(font
@@ -7309,7 +7579,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Diodes Incorporated"
+		(property "Manufacturer" "Diodes"
 			(at 197.358 49.53 0)
 			(effects
 				(font
@@ -7319,16 +7589,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "621-AP64501SP-13"
-			(at 198.628 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "AP64501SP-13"
 			(at 198.628 59.69 0)
 			(effects
 				(font
@@ -7383,6 +7644,24 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 198.628 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "621-AP64501SP-13"
+			(at 198.628 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
 			(at 198.628 59.69 0)
 			(effects
 				(font
@@ -7481,16 +7760,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "80-T495B106K25ATE750"
-			(at 130.175 125.603 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "T495B106K025ATE750"
 			(at 130.175 125.603 0)
 			(effects
 				(font
@@ -7545,6 +7815,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 130.175 125.603 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "80-T495B106K25ATE750"
+			(at 130.175 125.603 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 130.175 125.603 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kemet"
 			(at 130.175 125.603 0)
 			(effects
 				(font
@@ -7620,16 +7917,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "710-150080RS75000"
-			(at 27.178 126.238 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "150080RS75000"
 			(at 27.178 126.238 0)
 			(effects
 				(font
@@ -7685,6 +7973,33 @@
 		)
 		(property "Sim.Pins" ""
 			(at 27.178 126.238 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "710-150080RS75000"
+			(at 27.178 126.238 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 27.178 126.238 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Wurth"
+			(at 27.178 126.238 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7759,16 +8074,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "71-CRCW0805-1.0K-E3"
-			(at 35.179 117.983 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "CRCW08051K00FKEA"
 			(at 35.179 117.983 0)
 			(effects
 				(font
@@ -7823,6 +8129,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 35.179 117.983 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "71-CRCW0805-1.0K-E3"
+			(at 35.179 117.983 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 35.179 117.983 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Vishay"
 			(at 35.179 117.983 0)
 			(effects
 				(font
@@ -7901,16 +8234,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "863-MMSZ27T1G"
-			(at 76.835 59.436 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "MMSZ27T1G"
 			(at 76.835 59.436 0)
 			(effects
 				(font
@@ -7966,6 +8290,33 @@
 		)
 		(property "Sim.Pins" ""
 			(at 76.835 59.436 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "863-MMSZ27T1G"
+			(at 76.835 59.436 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 76.835 59.436 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "OnSemi"
+			(at 76.835 59.436 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8042,16 +8393,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "80-C0805C105M3R"
-			(at 175.006 121.793 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "C0805C105M3RACTU"
 			(at 175.006 121.793 0)
 			(effects
 				(font
@@ -8106,6 +8448,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 175.006 121.793 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "80-C0805C105M3R"
+			(at 175.006 121.793 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 175.006 121.793 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kemet"
 			(at 175.006 121.793 0)
 			(effects
 				(font
@@ -8183,16 +8552,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "71-CRCW0805-10K-E3"
-			(at 60.706 59.436 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "CRCW080510K0FKEA"
 			(at 60.706 59.436 0)
 			(effects
 				(font
@@ -8247,6 +8607,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 60.706 59.436 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "71-CRCW0805-10K-E3"
+			(at 60.706 59.436 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 60.706 59.436 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Vishay"
 			(at 60.706 59.436 0)
 			(effects
 				(font
@@ -8324,16 +8711,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "71-CRCW0805-10K-E3"
-			(at 86.233 55.245 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "CRCW080510K0FKEA"
 			(at 86.233 55.245 0)
 			(effects
 				(font
@@ -8388,6 +8766,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 86.233 55.245 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "71-CRCW0805-10K-E3"
+			(at 86.233 55.245 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 86.233 55.245 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Vishay"
 			(at 86.233 55.245 0)
 			(effects
 				(font
@@ -8464,16 +8869,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "621-DMG2307L-7"
-			(at 115.57 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "DMG2307L-7"
 			(at 115.57 48.26 0)
 			(effects
 				(font
@@ -8529,6 +8925,33 @@
 		)
 		(property "Sim.Pins" ""
 			(at 115.57 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "621-DMG2307L-7"
+			(at 115.57 48.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 115.57 48.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Diodes"
+			(at 115.57 48.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8609,16 +9032,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "581-TPSB107K010R0400"
-			(at 255.27 75.565 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "TPSB107K010R0400"
 			(at 255.27 75.565 0)
 			(effects
 				(font
@@ -8673,6 +9087,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 255.27 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "581-TPSB107K010R0400"
+			(at 255.27 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 255.27 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kyocera"
 			(at 255.27 75.565 0)
 			(effects
 				(font
@@ -8750,16 +9191,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "80-T495B106K25ATE750"
-			(at 27.94 56.261 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "T495B106K025ATE750"
 			(at 27.94 56.261 0)
 			(effects
 				(font
@@ -8822,6 +9254,33 @@
 				(hide yes)
 			)
 		)
+		(property "Reseller_P/N" "80-T495B106K25ATE750"
+			(at 27.94 56.261 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 27.94 56.261 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kemet"
+			(at 27.94 56.261 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9b60d667-bbe1-413b-bd28-15d799245db2")
 		)
@@ -8842,7 +9301,7 @@
 		(at 83.947 116.205 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -8892,15 +9351,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "N/A"
-			(at 83.947 116.205 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" ""
 			(at 83.947 116.205 0)
 			(effects
@@ -8957,6 +9407,33 @@
 		)
 		(property "Sim.Pins" ""
 			(at 83.947 116.205 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "N/A"
+			(at 83.947 116.205 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "N/A"
+			(at 83.947 116.205 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 83.947 116.205 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9030,16 +9507,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "80-C0805C106K4PAC"
-			(at 146.685 75.565 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "C0805C106K4PAC"
 			(at 146.685 75.565 0)
 			(effects
 				(font
@@ -9094,6 +9562,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 146.685 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "80-C0805C106K4PAC"
+			(at 146.685 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 146.685 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kemet"
 			(at 146.685 75.565 0)
 			(effects
 				(font
@@ -9171,16 +9666,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "80-T495B106K25ATE750"
-			(at 168.275 125.603 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "T495B106K025ATE750"
 			(at 168.275 125.603 0)
 			(effects
 				(font
@@ -9235,6 +9721,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 168.275 125.603 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "80-T495B106K25ATE750"
+			(at 168.275 125.603 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 168.275 125.603 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kemet"
 			(at 168.275 125.603 0)
 			(effects
 				(font
@@ -9310,16 +9823,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "71-CRCW0805-665-E3 "
-			(at 43.18 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "CRCW0805665RFKEA"
 			(at 43.18 118.11 0)
 			(effects
 				(font
@@ -9374,6 +9878,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 43.18 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "71-CRCW0805-665-E3 "
+			(at 43.18 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 43.18 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Vishay"
 			(at 43.18 118.11 0)
 			(effects
 				(font
@@ -9516,16 +10047,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "71-CRCW0805-10-E3"
-			(at 185.293 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "CRCW080510R0FKEA"
 			(at 185.293 27.94 0)
 			(effects
 				(font
@@ -9581,6 +10103,33 @@
 		)
 		(property "Sim.Pins" ""
 			(at 185.293 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "71-CRCW0805-10-E3"
+			(at 185.293 27.94 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 185.293 27.94 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Vishay"
+			(at 185.293 27.94 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9657,16 +10206,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "71-CRCW0805-10K-E3"
-			(at 76.835 51.181 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "CRCW080510K0FKEA"
 			(at 76.835 51.181 0)
 			(effects
 				(font
@@ -9721,6 +10261,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 76.835 51.181 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "71-CRCW0805-10K-E3"
+			(at 76.835 51.181 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 76.835 51.181 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Vishay"
 			(at 76.835 51.181 0)
 			(effects
 				(font
@@ -9862,16 +10429,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "71-CRCW0805-2.7K-E3"
-			(at 27.178 117.983 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "CRCW08052K70FKEA"
 			(at 27.178 117.983 0)
 			(effects
 				(font
@@ -9926,6 +10484,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 27.178 117.983 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "71-CRCW0805-2.7K-E3"
+			(at 27.178 117.983 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 27.178 117.983 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Vishay"
 			(at 27.178 117.983 0)
 			(effects
 				(font
@@ -10133,16 +10718,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "80-C0805C104M5R"
-			(at 182.753 55.245 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "C0805C104M5RACTU"
 			(at 182.753 55.245 0)
 			(effects
 				(font
@@ -10197,6 +10773,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 182.753 55.245 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "80-C0805C104M5R"
+			(at 182.753 55.245 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 182.753 55.245 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kemet"
 			(at 182.753 55.245 0)
 			(effects
 				(font
@@ -10274,16 +10877,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "80-C0805C106K4PAC"
-			(at 223.52 75.565 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "C0805C106K4PAC"
 			(at 223.52 75.565 0)
 			(effects
 				(font
@@ -10338,6 +10932,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 223.52 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "80-C0805C106K4PAC"
+			(at 223.52 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 223.52 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kemet"
 			(at 223.52 75.565 0)
 			(effects
 				(font
@@ -10481,16 +11102,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "71-CRCW0805-10K-E3"
-			(at 115.57 60.833 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "CRCW080510K0FKEA"
 			(at 115.57 60.833 0)
 			(effects
 				(font
@@ -10546,6 +11158,33 @@
 		)
 		(property "Sim.Pins" ""
 			(at 115.57 60.833 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "71-CRCW0805-10K-E3"
+			(at 115.57 60.833 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 115.57 60.833 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Vishay"
+			(at 115.57 60.833 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10621,16 +11260,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "621-DMG2307L-7"
-			(at 97.028 55.245 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "DMG2307L-7"
 			(at 97.028 55.245 0)
 			(effects
 				(font
@@ -10693,6 +11323,33 @@
 				(hide yes)
 			)
 		)
+		(property "Reseller_P/N" "621-DMG2307L-7"
+			(at 97.028 55.245 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 97.028 55.245 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Diodes"
+			(at 97.028 55.245 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cdad5016-24f3-4076-99f6-6847b46aa7b3")
 		)
@@ -10716,7 +11373,7 @@
 		(at 83.566 122.174 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -10766,15 +11423,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "N/A"
-			(at 83.566 122.174 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" ""
 			(at 83.566 122.174 0)
 			(effects
@@ -10831,6 +11479,33 @@
 		)
 		(property "Sim.Pins" ""
 			(at 83.566 122.174 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "N/A"
+			(at 83.566 122.174 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "N/A"
+			(at 83.566 122.174 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 83.566 122.174 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10902,16 +11577,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "863-MMSZ27T1G"
-			(at 68.199 53.975 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "MMSZ27T1G"
 			(at 68.199 53.975 0)
 			(effects
 				(font
@@ -10966,6 +11632,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 68.199 53.975 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "863-MMSZ27T1G"
+			(at 68.199 53.975 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 68.199 53.975 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "OnSemi"
 			(at 68.199 53.975 0)
 			(effects
 				(font
@@ -11043,16 +11736,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "80-C0805C106K4PAC"
-			(at 248.285 75.565 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "C0805C106K4PAC"
 			(at 248.285 75.565 0)
 			(effects
 				(font
@@ -11107,6 +11791,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 248.285 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "80-C0805C106K4PAC"
+			(at 248.285 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 248.285 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kemet"
 			(at 248.285 75.565 0)
 			(effects
 				(font
@@ -11184,16 +11895,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "80-C0805C106K4PAC"
-			(at 231.775 75.565 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "C0805C106K4PAC"
 			(at 231.775 75.565 0)
 			(effects
 				(font
@@ -11248,6 +11950,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 231.775 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "80-C0805C106K4PAC"
+			(at 231.775 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 231.775 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kemet"
 			(at 231.775 75.565 0)
 			(effects
 				(font
@@ -11391,16 +12120,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "80-C0805C106K4PAC"
-			(at 188.595 75.565 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "C0805C106K4PAC"
 			(at 188.595 75.565 0)
 			(effects
 				(font
@@ -11455,6 +12175,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 188.595 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "80-C0805C106K4PAC"
+			(at 188.595 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 188.595 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kemet"
 			(at 188.595 75.565 0)
 			(effects
 				(font
@@ -11531,16 +12278,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "652-SRN6045-3R3Y"
-			(at 219.583 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "SRN6045-3R3Y"
 			(at 219.583 27.94 0)
 			(effects
 				(font
@@ -11596,6 +12334,33 @@
 		)
 		(property "Sim.Pins" ""
 			(at 219.583 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "652-SRN6045-3R3Y"
+			(at 219.583 27.94 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 219.583 27.94 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Bourns"
+			(at 219.583 27.94 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11670,16 +12435,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "863-MMSZ27T1G"
-			(at 127.635 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "MMSZ27T1G"
 			(at 127.635 118.11 0)
 			(effects
 				(font
@@ -11734,6 +12490,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 127.635 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "863-MMSZ27T1G"
+			(at 127.635 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 127.635 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "OnSemi"
 			(at 127.635 118.11 0)
 			(effects
 				(font
@@ -11811,16 +12594,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "80-C0805C122K5R"
-			(at 220.218 60.325 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "C0805C122K5RACTU"
 			(at 220.218 60.325 0)
 			(effects
 				(font
@@ -11875,6 +12649,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 220.218 60.325 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "80-C0805C122K5R"
+			(at 220.218 60.325 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 220.218 60.325 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kemet"
 			(at 220.218 60.325 0)
 			(effects
 				(font
@@ -11950,16 +12751,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "710-150080RS75000"
-			(at 43.18 126.365 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "150080RS75000"
 			(at 43.18 126.365 0)
 			(effects
 				(font
@@ -12022,6 +12814,33 @@
 				(hide yes)
 			)
 		)
+		(property "Reseller_P/N" "710-150080RS75000"
+			(at 43.18 126.365 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 43.18 126.365 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Wurth"
+			(at 43.18 126.365 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1a09d457-856e-4035-8707-772f7ed11145")
 		)
@@ -12042,7 +12861,7 @@
 		(at 83.82 128.016 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -12092,15 +12911,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "N/A"
-			(at 83.82 128.016 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" ""
 			(at 83.82 128.016 0)
 			(effects
@@ -12157,6 +12967,33 @@
 		)
 		(property "Sim.Pins" ""
 			(at 83.82 128.016 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "N/A"
+			(at 83.82 128.016 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "N/A"
+			(at 83.82 128.016 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 83.82 128.016 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12360,16 +13197,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "755-BD33FC0FP-E2"
-			(at 154.94 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "NCV1117DT33T5G"
 			(at 154.94 118.11 0)
 			(effects
 				(font
@@ -12424,6 +13252,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 154.94 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "863-NCV1117DT33T5G"
+			(at 154.94 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 154.94 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "OnSemi"
 			(at 154.94 118.11 0)
 			(effects
 				(font

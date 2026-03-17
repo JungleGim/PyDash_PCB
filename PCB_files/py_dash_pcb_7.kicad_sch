@@ -6134,145 +6134,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED_Small")
-		(at 111.76 45.72 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0f9e8025-b321-4ef6-82db-f1f2043110de")
-		(property "Reference" "D1"
-			(at 112.522 41.529 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "red"
-			(at 113.284 43.053 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
-			(at 111.76 45.72 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 111.76 45.72 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 111.76 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser_PN" "710-150080RS75000"
-			(at 111.76 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
-			(at 111.76 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OC_FARNELL" ""
-			(at 111.76 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OC_NEWARK" ""
-			(at 111.76 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" ""
-			(at 111.76 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER" ""
-			(at 111.76 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 111.76 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 111.76 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "46578af3-3f26-4a58-a9ff-0047379b79fc")
-		)
-		(pin "2"
-			(uuid "376f5e5b-5d7f-461c-ac93-87e042ab170a")
-		)
-		(instances
-			(project "py_dash_pcb_7"
-				(path "/84878699-1e21-48de-ad1b-9d4034e33e81"
-					(reference "D1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 92.837 172.212 0)
 		(unit 1)
@@ -6391,16 +6252,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "71-CRCW0805-665-E3 "
-			(at 120.015 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "CRCW0805665RFKEA"
 			(at 120.015 45.72 0)
 			(effects
 				(font
@@ -6456,6 +6308,33 @@
 		)
 		(property "Sim.Pins" ""
 			(at 120.015 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "71-CRCW0805-665-E3 "
+			(at 120.015 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 120.015 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Vishay"
+			(at 120.015 45.72 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6709,16 +6588,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "N/A"
-			(at 208.28 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "CM4001008"
 			(at 208.28 86.36 0)
 			(effects
 				(font
@@ -6773,6 +6643,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 208.28 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "2648-SC0696-ND"
+			(at 208.28 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Digikey"
+			(at 208.28 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Raspberry PI"
 			(at 208.28 86.36 0)
 			(effects
 				(font
@@ -7510,16 +7407,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "80-T495B106K25ATE750"
-			(at 86.106 167.386 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "T495B106K025ATE750"
 			(at 86.106 167.386 0)
 			(effects
 				(font
@@ -7574,6 +7462,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 86.106 167.386 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "80-T495B106K25ATE750"
+			(at 86.106 167.386 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 86.106 167.386 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kemet"
 			(at 86.106 167.386 0)
 			(effects
 				(font
@@ -7651,16 +7566,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "80-C0805C105M3R"
-			(at 92.837 163.576 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "C0805C105M3RACTU"
 			(at 92.837 163.576 0)
 			(effects
 				(font
@@ -7723,6 +7629,33 @@
 				(hide yes)
 			)
 		)
+		(property "Reseller_P/N" "80-C0805C105M3R"
+			(at 92.837 163.576 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 92.837 163.576 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kemet"
+			(at 92.837 163.576 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b7997af2-d1f2-4855-9ed5-45685abb7bd8")
 		)
@@ -7733,6 +7666,163 @@
 			(project "py_dash_pcb_7"
 				(path "/84878699-1e21-48de-ad1b-9d4034e33e81"
 					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED_Small")
+		(at 111.76 45.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c62c4452-4212-4691-85d5-05d9cde65684")
+		(property "Reference" "D1"
+			(at 113.284 41.402 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "red"
+			(at 114.046 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+			(at 111.76 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 111.76 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 111.76 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "150080RS75000"
+			(at 111.76 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_FARNELL" ""
+			(at 111.76 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_NEWARK" ""
+			(at 111.76 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 111.76 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER" ""
+			(at 111.76 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 111.76 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 111.76 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "710-150080RS75000"
+			(at 111.76 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 111.76 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Wurth"
+			(at 111.76 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "74fd8e04-1291-4d36-aa0a-6e2a4b4cfcb5")
+		)
+		(pin "2"
+			(uuid "ad0347a6-70f6-4990-b0a7-b7b6e3b8d274")
+		)
+		(instances
+			(project "py_dash_pcb_7"
+				(path "/84878699-1e21-48de-ad1b-9d4034e33e81"
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -7970,16 +8060,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "N/A"
-			(at 78.74 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "CM4001008"
 			(at 78.74 86.36 0)
 			(effects
 				(font
@@ -8034,6 +8115,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 78.74 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "2648-SC0696-ND"
+			(at 78.74 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Digikey"
+			(at 78.74 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Raspberry PI"
 			(at 78.74 86.36 0)
 			(effects
 				(font

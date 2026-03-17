@@ -228,7 +228,7 @@
 	)
 	(rectangle
 		(start 100.33 72.009)
-		(end 138.049 92.583)
+		(end 138.049 129.413)
 		(stroke
 			(width 0)
 			(type dash)
@@ -313,7 +313,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Standoff_M2.5_5ET"
+		(property "Value" "Standoff_M2.5_6ET"
 			(at 37.846 168.6559 0)
 			(effects
 				(font
@@ -322,7 +322,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "user:Standoff_M2.5_5ET"
+		(property "Footprint" "user:Standoff_M2.5_6ET"
 			(at 34.798 167.386 0)
 			(effects
 				(font
@@ -349,16 +349,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "153-SMTSO-M25-3ET"
-			(at 34.798 167.386 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "SMTSO-M25-6ET"
 			(at 34.798 167.386 0)
 			(effects
 				(font
@@ -413,6 +404,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 34.798 167.386 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "153-SMTSO-M25-6ET"
+			(at 34.798 167.386 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 34.798 167.386 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "PEM"
 			(at 34.798 167.386 0)
 			(effects
 				(font
@@ -449,7 +467,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Standoff_M2.5_5ET"
+		(property "Value" "Standoff_M2.5_6ET"
 			(at 37.846 162.8139 0)
 			(effects
 				(font
@@ -458,7 +476,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "user:Standoff_M2.5_5ET"
+		(property "Footprint" "user:Standoff_M2.5_6ET"
 			(at 34.798 161.544 0)
 			(effects
 				(font
@@ -485,16 +503,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "153-SMTSO-M25-3ET"
-			(at 34.798 161.544 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "SMTSO-M25-6ET"
 			(at 34.798 161.544 0)
 			(effects
 				(font
@@ -549,6 +558,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 34.798 161.544 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "153-SMTSO-M25-6ET"
+			(at 34.798 161.544 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 34.798 161.544 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "PEM"
 			(at 34.798 161.544 0)
 			(effects
 				(font
@@ -621,16 +657,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "710-9774015243R"
-			(at 106.172 52.324 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "9774015243R"
 			(at 106.172 52.324 0)
 			(effects
 				(font
@@ -685,6 +712,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 106.172 52.324 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "710-9774015243R"
+			(at 106.172 52.324 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 106.172 52.324 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Wurth"
 			(at 106.172 52.324 0)
 			(effects
 				(font
@@ -757,16 +811,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "710-9774015243R"
-			(at 106.172 46.482 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "9774015243R"
 			(at 106.172 46.482 0)
 			(effects
 				(font
@@ -821,6 +866,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 106.172 46.482 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "710-9774015243R"
+			(at 106.172 46.482 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 106.172 46.482 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Wurth"
 			(at 106.172 46.482 0)
 			(effects
 				(font
@@ -857,7 +929,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Standoff_M2.5_5ET"
+		(property "Value" "Standoff_M2.5_6ET"
 			(at 37.592 131.5719 0)
 			(effects
 				(font
@@ -866,7 +938,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "user:Standoff_M2.5_5ET"
+		(property "Footprint" "user:Standoff_M2.5_6ET"
 			(at 34.544 130.302 0)
 			(effects
 				(font
@@ -893,16 +965,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "153-SMTSO-M25-3ET"
-			(at 34.544 130.302 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "SMTSO-M25-6ET"
 			(at 34.544 130.302 0)
 			(effects
 				(font
@@ -957,6 +1020,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 34.544 130.302 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "153-SMTSO-M25-6ET"
+			(at 34.544 130.302 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 34.544 130.302 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "PEM"
 			(at 34.544 130.302 0)
 			(effects
 				(font
@@ -993,7 +1083,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Standoff_M2.5_5ET"
+		(property "Value" "Standoff_M2.5_6ET"
 			(at 37.338 113.5379 0)
 			(effects
 				(font
@@ -1002,7 +1092,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "user:Standoff_M2.5_5ET"
+		(property "Footprint" "user:Standoff_M2.5_6ET"
 			(at 34.29 112.268 0)
 			(effects
 				(font
@@ -1029,16 +1119,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "153-SMTSO-M25-3ET"
-			(at 34.29 112.268 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "SMTSO-M25-6ET"
 			(at 34.29 112.268 0)
 			(effects
 				(font
@@ -1093,6 +1174,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 34.29 112.268 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "153-SMTSO-M25-6ET"
+			(at 34.29 112.268 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 34.29 112.268 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "PEM"
 			(at 34.29 112.268 0)
 			(effects
 				(font
@@ -1129,7 +1237,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Standoff_M2.5_5ET"
+		(property "Value" "Standoff_M2.5_6ET"
 			(at 37.338 119.3799 0)
 			(effects
 				(font
@@ -1138,7 +1246,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "user:Standoff_M2.5_5ET"
+		(property "Footprint" "user:Standoff_M2.5_6ET"
 			(at 34.29 118.11 0)
 			(effects
 				(font
@@ -1165,16 +1273,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "153-SMTSO-M25-3ET"
-			(at 34.29 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "SMTSO-M25-6ET"
 			(at 34.29 118.11 0)
 			(effects
 				(font
@@ -1237,10 +1336,194 @@
 				(hide yes)
 			)
 		)
+		(property "Reseller_P/N" "153-SMTSO-M25-6ET"
+			(at 34.29 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 34.29 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "PEM"
+			(at 34.29 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "py_dash_pcb_7"
 				(path "/84878699-1e21-48de-ad1b-9d4034e33e81/bd67a017-df07-4337-876d-8f0fee0733f5"
 					(reference "H15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 108.458 94.234 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board no)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5986033b-a2dc-454f-95a7-cfb181656df4")
+		(property "Reference" "J8"
+			(at 111.506 92.9639 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "HDMI_Display"
+			(at 111.506 95.5039 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "N/A"
+			(at 108.458 94.234 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.waveshare.com/70h-1024600.htm?sku=22671"
+			(at 108.458 94.234 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "40 pin 0.5mm pitch FFC"
+			(at 108.458 94.234 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "70H-1024600-IPS-A"
+			(at 108.458 94.234 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_FARNELL" ""
+			(at 108.458 94.234 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_NEWARK" ""
+			(at 108.458 94.234 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 108.458 94.234 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER" ""
+			(at 108.458 94.234 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 108.458 94.234 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 108.458 94.234 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "70H-1024600-IPS-A"
+			(at 108.458 94.234 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Waveshare"
+			(at 108.458 94.234 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Waveshare"
+			(at 108.458 94.234 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c131de60-de30-48d0-b650-67e3952afe19")
+		)
+		(instances
+			(project "py_dash_pcb_7"
+				(path "/84878699-1e21-48de-ad1b-9d4034e33e81/bd67a017-df07-4337-876d-8f0fee0733f5"
+					(reference "J8")
 					(unit 1)
 				)
 			)
@@ -1265,7 +1548,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Standoff_M2.5_5ET"
+		(property "Value" "Standoff_M2.5_6ET"
 			(at 37.084 82.5499 0)
 			(effects
 				(font
@@ -1274,7 +1557,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "user:Standoff_M2.5_5ET"
+		(property "Footprint" "user:Standoff_M2.5_6ET"
 			(at 34.036 81.28 0)
 			(effects
 				(font
@@ -1301,16 +1584,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "153-SMTSO-M25-3ET"
-			(at 34.036 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "SMTSO-M25-6ET"
 			(at 34.036 81.28 0)
 			(effects
 				(font
@@ -1365,6 +1639,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 34.036 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "153-SMTSO-M25-6ET"
+			(at 34.036 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 34.036 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "PEM"
 			(at 34.036 81.28 0)
 			(effects
 				(font
@@ -1437,16 +1738,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "798-DF40C100DS0.4V51"
-			(at 108.458 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "DF40C-100DS-0.4V(51)"
 			(at 108.458 76.2 0)
 			(effects
 				(font
@@ -1501,6 +1793,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 108.458 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "798-DF40C100DS0.4V51"
+			(at 108.458 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 108.458 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Hirose"
 			(at 108.458 76.2 0)
 			(effects
 				(font
@@ -1540,7 +1859,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Standoff_M2.5_5ET"
+		(property "Value" "Standoff_M2.5_6ET"
 			(at 37.846 137.6679 0)
 			(effects
 				(font
@@ -1549,7 +1868,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "user:Standoff_M2.5_5ET"
+		(property "Footprint" "user:Standoff_M2.5_6ET"
 			(at 34.798 136.398 0)
 			(effects
 				(font
@@ -1576,16 +1895,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "153-SMTSO-M25-3ET"
-			(at 34.798 136.398 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "SMTSO-M25-6ET"
 			(at 34.798 136.398 0)
 			(effects
 				(font
@@ -1640,6 +1950,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 34.798 136.398 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "153-SMTSO-M25-6ET"
+			(at 34.798 136.398 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 34.798 136.398 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "PEM"
 			(at 34.798 136.398 0)
 			(effects
 				(font
@@ -1712,16 +2049,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "798-DF40C100DS0.4V51"
-			(at 108.458 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "DF40C-100DS-0.4V(51)"
 			(at 108.458 82.55 0)
 			(effects
 				(font
@@ -1776,6 +2104,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 108.458 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "798-DF40C100DS0.4V51"
+			(at 108.458 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 108.458 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Hirose"
 			(at 108.458 82.55 0)
 			(effects
 				(font
@@ -1815,7 +2170,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Standoff_M2.5_5ET"
+		(property "Value" "Standoff_M2.5_6ET"
 			(at 37.338 106.6799 0)
 			(effects
 				(font
@@ -1824,7 +2179,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "user:Standoff_M2.5_5ET"
+		(property "Footprint" "user:Standoff_M2.5_6ET"
 			(at 34.29 105.41 0)
 			(effects
 				(font
@@ -1851,16 +2206,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "153-SMTSO-M25-3ET"
-			(at 34.29 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "SMTSO-M25-6ET"
 			(at 34.29 105.41 0)
 			(effects
 				(font
@@ -1915,6 +2261,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 34.29 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "153-SMTSO-M25-6ET"
+			(at 34.29 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 34.29 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "PEM"
 			(at 34.29 105.41 0)
 			(effects
 				(font
@@ -1987,16 +2360,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "710-9774015243R"
-			(at 106.172 33.528 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "9774015243R"
 			(at 106.172 33.528 0)
 			(effects
 				(font
@@ -2051,6 +2415,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 106.172 33.528 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "710-9774015243R"
+			(at 106.172 33.528 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 106.172 33.528 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Wurth"
 			(at 106.172 33.528 0)
 			(effects
 				(font
@@ -2123,16 +2514,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "710-9774015243R"
-			(at 106.172 40.132 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "9774015243R"
 			(at 106.172 40.132 0)
 			(effects
 				(font
@@ -2187,6 +2569,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 106.172 40.132 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "710-9774015243R"
+			(at 106.172 40.132 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 106.172 40.132 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Wurth"
 			(at 106.172 40.132 0)
 			(effects
 				(font
@@ -2259,16 +2668,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "640-540-D0152A4064T"
-			(at 108.458 88.138 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "05-40-D-0152-A-4-06-4-G"
 			(at 108.458 88.138 0)
 			(effects
 				(font
@@ -2323,6 +2723,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 108.458 88.138 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "640-540-D0152A4064T"
+			(at 108.458 88.138 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 108.458 88.138 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "GCT"
 			(at 108.458 88.138 0)
 			(effects
 				(font
@@ -2398,15 +2825,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "N/A"
-			(at 33.274 52.324 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" ""
 			(at 33.274 52.324 0)
 			(effects
@@ -2462,6 +2880,24 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 33.274 52.324 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "N/A"
+			(at 33.274 52.324 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "N/A"
 			(at 33.274 52.324 0)
 			(effects
 				(font
@@ -2498,7 +2934,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Standoff_M2.5_5ET"
+		(property "Value" "Standoff_M2.5_6ET"
 			(at 37.846 149.8599 0)
 			(effects
 				(font
@@ -2507,7 +2943,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "user:Standoff_M2.5_5ET"
+		(property "Footprint" "user:Standoff_M2.5_6ET"
 			(at 34.798 148.59 0)
 			(effects
 				(font
@@ -2534,16 +2970,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "153-SMTSO-M25-3ET"
-			(at 34.798 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "SMTSO-M25-6ET"
 			(at 34.798 148.59 0)
 			(effects
 				(font
@@ -2598,6 +3025,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 34.798 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "153-SMTSO-M25-6ET"
+			(at 34.798 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 34.798 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "PEM"
 			(at 34.798 148.59 0)
 			(effects
 				(font
@@ -2634,7 +3088,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Standoff_M2.5_5ET"
+		(property "Value" "Standoff_M2.5_6ET"
 			(at 37.592 125.7299 0)
 			(effects
 				(font
@@ -2643,7 +3097,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "user:Standoff_M2.5_5ET"
+		(property "Footprint" "user:Standoff_M2.5_6ET"
 			(at 34.544 124.46 0)
 			(effects
 				(font
@@ -2670,16 +3124,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "153-SMTSO-M25-3ET"
-			(at 34.544 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "SMTSO-M25-6ET"
 			(at 34.544 124.46 0)
 			(effects
 				(font
@@ -2734,6 +3179,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 34.544 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "153-SMTSO-M25-6ET"
+			(at 34.544 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 34.544 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "PEM"
 			(at 34.544 124.46 0)
 			(effects
 				(font
@@ -2806,15 +3278,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "N/A"
-			(at 33.274 40.132 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" ""
 			(at 33.274 40.132 0)
 			(effects
@@ -2870,6 +3333,24 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 33.274 40.132 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "N/A"
+			(at 33.274 40.132 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "N/A"
 			(at 33.274 40.132 0)
 			(effects
 				(font
@@ -2906,7 +3387,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Standoff_M2.5_5ET"
+		(property "Value" "Standoff_M2.5_6ET"
 			(at 37.338 88.6459 0)
 			(effects
 				(font
@@ -2915,7 +3396,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "user:Standoff_M2.5_5ET"
+		(property "Footprint" "user:Standoff_M2.5_6ET"
 			(at 34.29 87.376 0)
 			(effects
 				(font
@@ -2942,16 +3423,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "153-SMTSO-M25-3ET"
-			(at 34.29 87.376 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "SMTSO-M25-6ET"
 			(at 34.29 87.376 0)
 			(effects
 				(font
@@ -3014,10 +3486,194 @@
 				(hide yes)
 			)
 		)
+		(property "Reseller_P/N" "153-SMTSO-M25-6ET"
+			(at 34.29 87.376 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 34.29 87.376 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "PEM"
+			(at 34.29 87.376 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "py_dash_pcb_7"
 				(path "/84878699-1e21-48de-ad1b-9d4034e33e81/bd67a017-df07-4337-876d-8f0fee0733f5"
 					(reference "H10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 108.458 105.664 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board no)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9f7f5c23-2132-41ff-9afd-3bccb8c0df09")
+		(property "Reference" "J10"
+			(at 111.506 104.3939 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "12x12 keycap - white"
+			(at 111.506 106.9339 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "N/A"
+			(at 108.458 105.664 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 108.458 105.664 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 108.458 105.664 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "B32-1360"
+			(at 108.458 105.664 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_FARNELL" ""
+			(at 108.458 105.664 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_NEWARK" ""
+			(at 108.458 105.664 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 108.458 105.664 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER" ""
+			(at 108.458 105.664 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 108.458 105.664 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 108.458 105.664 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "653-B32-1360"
+			(at 108.458 105.664 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 108.458 105.664 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Omron"
+			(at 108.458 105.664 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b5076b76-8d7b-402f-a793-eb4b6acb17f5")
+		)
+		(instances
+			(project "py_dash_pcb_7"
+				(path "/84878699-1e21-48de-ad1b-9d4034e33e81/bd67a017-df07-4337-876d-8f0fee0733f5"
+					(reference "J10")
 					(unit 1)
 				)
 			)
@@ -3078,15 +3734,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "N/A"
-			(at 33.274 33.528 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" ""
 			(at 33.274 33.528 0)
 			(effects
@@ -3142,6 +3789,24 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 33.274 33.528 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "N/A"
+			(at 33.274 33.528 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "N/A"
 			(at 33.274 33.528 0)
 			(effects
 				(font
@@ -3178,7 +3843,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Standoff_M2.5_5ET"
+		(property "Value" "Standoff_M2.5_6ET"
 			(at 37.338 100.8379 0)
 			(effects
 				(font
@@ -3187,7 +3852,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "user:Standoff_M2.5_5ET"
+		(property "Footprint" "user:Standoff_M2.5_6ET"
 			(at 34.29 99.568 0)
 			(effects
 				(font
@@ -3214,16 +3879,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "153-SMTSO-M25-3ET"
-			(at 34.29 99.568 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "SMTSO-M25-6ET"
 			(at 34.29 99.568 0)
 			(effects
 				(font
@@ -3278,6 +3934,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 34.29 99.568 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "153-SMTSO-M25-6ET"
+			(at 34.29 99.568 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 34.29 99.568 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "PEM"
 			(at 34.29 99.568 0)
 			(effects
 				(font
@@ -3314,7 +3997,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Standoff_M2.5_5ET"
+		(property "Value" "Standoff_M2.5_6ET"
 			(at 37.846 143.5099 0)
 			(effects
 				(font
@@ -3323,7 +4006,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "user:Standoff_M2.5_5ET"
+		(property "Footprint" "user:Standoff_M2.5_6ET"
 			(at 34.798 142.24 0)
 			(effects
 				(font
@@ -3350,16 +4033,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "153-SMTSO-M25-3ET"
-			(at 34.798 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "SMTSO-M25-6ET"
 			(at 34.798 142.24 0)
 			(effects
 				(font
@@ -3414,6 +4088,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 34.798 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "153-SMTSO-M25-6ET"
+			(at 34.798 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 34.798 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "PEM"
 			(at 34.798 142.24 0)
 			(effects
 				(font
@@ -3450,7 +4151,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Standoff_M2.5_5ET"
+		(property "Value" "Standoff_M2.5_6ET"
 			(at 37.846 155.7019 0)
 			(effects
 				(font
@@ -3459,7 +4160,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "user:Standoff_M2.5_5ET"
+		(property "Footprint" "user:Standoff_M2.5_6ET"
 			(at 34.798 154.432 0)
 			(effects
 				(font
@@ -3486,16 +4187,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "153-SMTSO-M25-3ET"
-			(at 34.798 154.432 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "SMTSO-M25-6ET"
 			(at 34.798 154.432 0)
 			(effects
 				(font
@@ -3558,10 +4250,351 @@
 				(hide yes)
 			)
 		)
+		(property "Reseller_P/N" "153-SMTSO-M25-6ET"
+			(at 34.798 154.432 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 34.798 154.432 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "PEM"
+			(at 34.798 154.432 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "py_dash_pcb_7"
 				(path "/84878699-1e21-48de-ad1b-9d4034e33e81/bd67a017-df07-4337-876d-8f0fee0733f5"
 					(reference "H21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 108.458 125.73 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board no)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ba653e92-4036-4176-818b-cbc0ea0ab53f")
+		(property "Reference" "J14"
+			(at 111.506 124.4599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "12x12 keycap - white"
+			(at 111.506 126.9999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "N/A"
+			(at 108.458 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 108.458 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 108.458 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "B32-1360"
+			(at 108.458 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_FARNELL" ""
+			(at 108.458 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_NEWARK" ""
+			(at 108.458 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 108.458 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER" ""
+			(at 108.458 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 108.458 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 108.458 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "653-B32-1360"
+			(at 108.458 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 108.458 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Omron"
+			(at 108.458 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "08f5636c-269b-42ac-8418-e66085933b35")
+		)
+		(instances
+			(project "py_dash_pcb_7"
+				(path "/84878699-1e21-48de-ad1b-9d4034e33e81/bd67a017-df07-4337-876d-8f0fee0733f5"
+					(reference "J14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 108.458 100.33 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board no)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d68862d7-d446-4267-a8f2-4def5d735fab")
+		(property "Reference" "J9"
+			(at 111.506 99.0599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "12x12 keycap - white"
+			(at 111.506 101.5999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "N/A"
+			(at 108.458 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 108.458 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 108.458 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "B32-1360"
+			(at 108.458 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_FARNELL" ""
+			(at 108.458 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_NEWARK" ""
+			(at 108.458 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 108.458 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER" ""
+			(at 108.458 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 108.458 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 108.458 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "653-B32-1360"
+			(at 108.458 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 108.458 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Omron"
+			(at 108.458 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "14bac3f7-0f3c-4597-882f-85bdfc9ec3b5")
+		)
+		(instances
+			(project "py_dash_pcb_7"
+				(path "/84878699-1e21-48de-ad1b-9d4034e33e81/bd67a017-df07-4337-876d-8f0fee0733f5"
+					(reference "J9")
 					(unit 1)
 				)
 			)
@@ -3586,7 +4619,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Standoff_M2.5_5ET"
+		(property "Value" "Standoff_M2.5_6ET"
 			(at 37.338 94.4879 0)
 			(effects
 				(font
@@ -3595,7 +4628,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "user:Standoff_M2.5_5ET"
+		(property "Footprint" "user:Standoff_M2.5_6ET"
 			(at 34.29 93.218 0)
 			(effects
 				(font
@@ -3622,16 +4655,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "153-SMTSO-M25-3ET"
-			(at 34.29 93.218 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "SMTSO-M25-6ET"
 			(at 34.29 93.218 0)
 			(effects
 				(font
@@ -3686,6 +4710,33 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 34.29 93.218 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "153-SMTSO-M25-6ET"
+			(at 34.29 93.218 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 34.29 93.218 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "PEM"
 			(at 34.29 93.218 0)
 			(effects
 				(font
@@ -3722,7 +4773,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Standoff_M2.5_5ET"
+		(property "Value" "Standoff_M2.5_6ET"
 			(at 37.084 76.7079 0)
 			(effects
 				(font
@@ -3731,7 +4782,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "user:Standoff_M2.5_5ET"
+		(property "Footprint" "user:Standoff_M2.5_6ET"
 			(at 34.036 75.438 0)
 			(effects
 				(font
@@ -3758,16 +4809,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "153-SMTSO-M25-3ET"
-			(at 34.036 75.438 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "SMTSO-M25-6ET"
 			(at 34.036 75.438 0)
 			(effects
 				(font
@@ -3830,10 +4872,351 @@
 				(hide yes)
 			)
 		)
+		(property "Reseller_P/N" "153-SMTSO-M25-6ET"
+			(at 34.036 75.438 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 34.036 75.438 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "PEM"
+			(at 34.036 75.438 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "py_dash_pcb_7"
 				(path "/84878699-1e21-48de-ad1b-9d4034e33e81/bd67a017-df07-4337-876d-8f0fee0733f5"
 					(reference "H8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 108.458 120.904 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board no)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e20cbe9b-a3f5-45d2-88b4-c11ebc8fbb51")
+		(property "Reference" "J13"
+			(at 111.506 119.6339 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "12x12 keycap - white"
+			(at 111.506 122.1739 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "N/A"
+			(at 108.458 120.904 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 108.458 120.904 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 108.458 120.904 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "B32-1360"
+			(at 108.458 120.904 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_FARNELL" ""
+			(at 108.458 120.904 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_NEWARK" ""
+			(at 108.458 120.904 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 108.458 120.904 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER" ""
+			(at 108.458 120.904 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 108.458 120.904 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 108.458 120.904 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "653-B32-1360"
+			(at 108.458 120.904 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 108.458 120.904 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Omron"
+			(at 108.458 120.904 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4a30f29d-2c36-402f-863a-21101d3b337a")
+		)
+		(instances
+			(project "py_dash_pcb_7"
+				(path "/84878699-1e21-48de-ad1b-9d4034e33e81/bd67a017-df07-4337-876d-8f0fee0733f5"
+					(reference "J13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 108.458 110.49 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board no)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e74232f2-f5e7-47da-ad93-785a6036fd56")
+		(property "Reference" "J11"
+			(at 111.506 109.2199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "12x12 keycap - white"
+			(at 111.506 111.7599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "N/A"
+			(at 108.458 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 108.458 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 108.458 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "B32-1360"
+			(at 108.458 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_FARNELL" ""
+			(at 108.458 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_NEWARK" ""
+			(at 108.458 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 108.458 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER" ""
+			(at 108.458 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 108.458 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 108.458 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "653-B32-1360"
+			(at 108.458 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 108.458 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Omron"
+			(at 108.458 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f2ef20d4-fd0c-44dc-8d31-1c76bc6903ef")
+		)
+		(instances
+			(project "py_dash_pcb_7"
+				(path "/84878699-1e21-48de-ad1b-9d4034e33e81/bd67a017-df07-4337-876d-8f0fee0733f5"
+					(reference "J11")
 					(unit 1)
 				)
 			)
@@ -3894,15 +5277,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "N/A"
-			(at 33.274 46.482 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" ""
 			(at 33.274 46.482 0)
 			(effects
@@ -3966,10 +5340,185 @@
 				(hide yes)
 			)
 		)
+		(property "Reseller_P/N" "N/A"
+			(at 33.274 46.482 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "N/A"
+			(at 33.274 46.482 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "py_dash_pcb_7"
 				(path "/84878699-1e21-48de-ad1b-9d4034e33e81/bd67a017-df07-4337-876d-8f0fee0733f5"
 					(reference "H5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 108.458 115.57 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board no)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "facf20e1-d2d5-4517-bc3f-00d9473c25b3")
+		(property "Reference" "J12"
+			(at 111.506 114.2999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "12x12 keycap - white"
+			(at 111.506 116.8399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "N/A"
+			(at 108.458 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 108.458 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 108.458 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "B32-1360"
+			(at 108.458 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_FARNELL" ""
+			(at 108.458 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_NEWARK" ""
+			(at 108.458 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 108.458 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER" ""
+			(at 108.458 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 108.458 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 108.458 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reseller_P/N" "653-B32-1360"
+			(at 108.458 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source/Reseller" "Mouser"
+			(at 108.458 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Omron"
+			(at 108.458 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8e28c1c1-18f5-4cfe-a847-1654266701dc")
+		)
+		(instances
+			(project "py_dash_pcb_7"
+				(path "/84878699-1e21-48de-ad1b-9d4034e33e81/bd67a017-df07-4337-876d-8f0fee0733f5"
+					(reference "J12")
 					(unit 1)
 				)
 			)
