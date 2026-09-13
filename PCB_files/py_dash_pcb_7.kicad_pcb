@@ -60714,6 +60714,17 @@
 		(layer "F.SilkS")
 		(uuid "63b57dbe-b6a0-4df5-aa83-f81a60a490c0")
 	)
+	(gr_rect
+		(start 112.5119 56.6)
+		(end 119.9631 58.5252)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "6f852d5a-35da-4d5d-9b6d-6f6f37bcda31")
+	)
 	(gr_circle
 		(center 131.6855 138.919)
 		(end 132.60307 138.919)
@@ -61063,6 +61074,18 @@
 		)
 		(layer "User.2")
 		(uuid "e05094ba-4887-4767-9cb2-9a6b42f561fe")
+	)
+	(gr_text "PROG >"
+		(at 116.275 57.625 0)
+		(layer "F.SilkS" knockout)
+		(uuid "19b78979-5ce5-45b2-bebb-19f248b3861a")
+		(effects
+			(font
+				(size 1.2 1.2)
+				(thickness 0.3)
+				(bold yes)
+			)
+		)
 	)
 	(gr_text "PyDash - LRC\nBatch: B/N 03092025\nRev 2a  03/09/2025"
 		(at 193.475 131.475 0)
@@ -65827,7 +65850,7 @@
 		(uuid "58ffcb49-230f-4d8c-a826-3fca4f5325ee")
 	)
 	(via
-		(at 120 57)
+		(at 121.675 57.15)
 		(size 0.45)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -67192,7 +67215,7 @@
 		(uuid "af7afbd7-ba62-40d4-8c0f-1b78b6e657df")
 	)
 	(via
-		(at 114.25 57.075)
+		(at 111.975 57.15)
 		(size 0.45)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -87617,7 +87640,8 @@
 	)
 	(group ""
 		(uuid "2b1844af-9f75-472d-a07c-9bc8146e664b")
-		(members "3c9b0722-073a-432e-a3d1-d2c81758c07c" "63b57dbe-b6a0-4df5-aa83-f81a60a490c0"
+		(members "19b78979-5ce5-45b2-bebb-19f248b3861a" "3c9b0722-073a-432e-a3d1-d2c81758c07c"
+			"63b57dbe-b6a0-4df5-aa83-f81a60a490c0" "6f852d5a-35da-4d5d-9b6d-6f6f37bcda31"
 			"f980980c-96b6-4e08-a395-3558102de11a"
 		)
 	)

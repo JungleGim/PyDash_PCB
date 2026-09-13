@@ -7710,7 +7710,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "219G-2ESF"
+		(property "MPN" "DS04-254-2-01BK-SMT "
 			(at 260.35 99.568 0)
 			(effects
 				(font
@@ -7773,7 +7773,7 @@
 				(hide yes)
 			)
 		)
-		(property "Reseller_P/N" "774-219G-2ESF"
+		(property "Reseller_P/N" "490-DS04254201BK-SMT"
 			(at 260.35 99.568 0)
 			(effects
 				(font
@@ -7791,7 +7791,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "CTS"
+		(property "Manufacturer" "Same Sky"
 			(at 260.35 99.568 0)
 			(effects
 				(font

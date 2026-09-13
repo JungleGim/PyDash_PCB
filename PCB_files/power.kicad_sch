@@ -7079,7 +7079,7 @@
 				)
 			)
 		)
-		(property "Value" "27V"
+		(property "Value" "2A 60V"
 			(at 175.768 40.2336 0)
 			(effects
 				(font
@@ -7114,7 +7114,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "MMSZ27T1G"
+		(property "MPN" "CDBMT260-HF"
 			(at 175.768 43.18 0)
 			(effects
 				(font
@@ -7177,7 +7177,7 @@
 				(hide yes)
 			)
 		)
-		(property "Reseller_P/N" "863-MMSZ27T1G"
+		(property "Reseller_P/N" "750-CDBMT260-HF"
 			(at 175.768 43.18 0)
 			(effects
 				(font
@@ -7195,7 +7195,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "OnSemi"
+		(property "Manufacturer" "Comchip"
 			(at 175.768 43.18 0)
 			(effects
 				(font
@@ -11542,7 +11542,7 @@
 				)
 			)
 		)
-		(property "Value" "27V"
+		(property "Value" "2A 60V"
 			(at 68.199 51.0286 0)
 			(effects
 				(font
@@ -11577,7 +11577,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "MMSZ27T1G"
+		(property "MPN" "CDBMT260-HF"
 			(at 68.199 53.975 0)
 			(effects
 				(font
@@ -11640,7 +11640,7 @@
 				(hide yes)
 			)
 		)
-		(property "Reseller_P/N" "863-MMSZ27T1G"
+		(property "Reseller_P/N" "750-CDBMT260-HF"
 			(at 68.199 53.975 0)
 			(effects
 				(font
@@ -11658,7 +11658,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "OnSemi"
+		(property "Manufacturer" "Comchip"
 			(at 68.199 53.975 0)
 			(effects
 				(font
