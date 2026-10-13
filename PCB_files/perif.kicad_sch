@@ -2276,6 +2276,17 @@
 		)
 		(uuid "76cce9ed-c2b8-4697-8b08-80aab1295bc1")
 	)
+	(text "U9 can be replaced with a SN65HCD234\nchip, however pin 5 must be tied to vcc."
+		(exclude_from_sim no)
+		(at 26.162 125.476 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bc6e76f4-e540-45f2-9d9c-424f5a7c32a3")
+	)
 	(junction
 		(at 80.01 136.525)
 		(diameter 0)
@@ -3611,7 +3622,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SN65HVD234"
+		(property "Value" "SN65HVD231"
 			(at 41.91 93.345 0)
 			(effects
 				(font
@@ -3629,7 +3640,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/sn65hvd234.pdf"
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/sn65hvd231.pdf"
 			(at 54.61 90.17 0)
 			(effects
 				(font
@@ -3647,7 +3658,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SN65HVD234DR"
+		(property "MPN" "SN65HVD231D"
 			(at 57.15 100.33 0)
 			(effects
 				(font
@@ -3710,7 +3721,7 @@
 				(hide yes)
 			)
 		)
-		(property "Reseller_P/N" "595-SN65HVD234DR"
+		(property "Reseller_P/N" "595-SN65HVD231D"
 			(at 57.15 100.33 0)
 			(effects
 				(font
