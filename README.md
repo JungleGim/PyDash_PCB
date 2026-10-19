@@ -22,12 +22,6 @@ Additional details on the design considerations, required packages, and key feat
 	- Added micro SD socket for users to load dash config files
 	- Updated USB port to USBC
 	- Removed touch lines from screen and removed USB mux - no plans to utilize touch in future
-	
-## Future Development
-The below is a list of wants/needs for future revisions; loosely listed in order of importance.
-
-- Update mounting holes for CM4 to solder pads for use of solder-on standoffs to attach CM4
-- Scope out board assembly cost
 
 # Methodology
 ## History
