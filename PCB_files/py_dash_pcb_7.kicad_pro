@@ -544,7 +544,7 @@
       "plot": "PyDash_pcb_gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "py_dash_pcb_7.step",
+      "step": "../../PyDash_Enclosure/PyDash_Enclosure_Assembly/pydash_parts/py_dash_pcb_7.step",
       "svg": "",
       "vrml": ""
     },
